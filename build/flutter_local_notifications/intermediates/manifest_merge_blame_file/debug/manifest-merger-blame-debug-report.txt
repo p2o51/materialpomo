@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dexterous.flutterlocalnotifications" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.2.2/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.2.2/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.VIBRATE" />
+9-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.2.2/android/src/main/AndroidManifest.xml:3:5-66
+9-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.2.2/android/src/main/AndroidManifest.xml:3:22-63
+10    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+10-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.2.2/android/src/main/AndroidManifest.xml:4:5-76
+10-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.2.2/android/src/main/AndroidManifest.xml:4:22-74
+11
+12</manifest>

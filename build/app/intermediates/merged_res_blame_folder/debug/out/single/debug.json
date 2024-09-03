@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.material_pomodoro.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.material_pomodoro.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.material_pomodoro.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.material_pomodoro.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.material_pomodoro.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.material_pomodoro.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.material_pomodoro.app-merged_res-40:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.material_pomodoro.app-main-34:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.material_pomodoro.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.material_pomodoro.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.material_pomodoro.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.material_pomodoro.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

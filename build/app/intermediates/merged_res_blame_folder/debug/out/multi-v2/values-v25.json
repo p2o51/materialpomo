@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.material_pomodoro.app-mergeDebugResources-38:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/8231869dc15aa7c52f8c09beb2a7eb3d/transformed/appcompat-1.5.0/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
