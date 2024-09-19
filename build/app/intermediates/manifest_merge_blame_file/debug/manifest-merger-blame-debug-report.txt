@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <!--
 17     Required to query activities that can process text, see:
 18         https://developer.android.com/training/package-visibility and
@@ -23,25 +23,25 @@
 21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 22    -->
 23    <queries>
-23-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:39:5-44:15
+23-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:39:5-44:15
 24        <intent>
-24-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:40:9-43:18
+24-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:40:9-43:18
 25            <action android:name="android.intent.action.PROCESS_TEXT" />
-25-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:41:13-72
-25-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:41:21-70
+25-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:13-72
+25-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:21-70
 26
 27            <data android:mimeType="text/plain" />
-27-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:42:13-50
-27-->/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:42:19-48
+27-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:13-50
+27-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:19-48
 28        </intent>
 29    </queries>
 30
 31    <uses-permission android:name="android.permission.VIBRATE" />
-31-->[:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
-31-->[:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
+31-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+31-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
 32    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-32-->[:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
-32-->[:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
+32-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+32-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
 33
 34    <permission
 34-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/fac84cd5ecf1ec88a8c98571217c9350/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47

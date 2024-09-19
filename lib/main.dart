@@ -4,6 +4,7 @@ import 'package:dynamic_color/dynamic_color.dart';
 import 'focus_page.dart';
 import 'todo_page.dart';
 import 'stats_page.dart';
+import 'package:flutter/services.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,6 +15,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+      statusBarColor: Colors.transparent,
+      statusBarIconBrightness: Brightness.dark,
+      statusBarBrightness: Brightness.light,
+    ));
     return DynamicColorBuilder(
       builder: (ColorScheme? lightDynamic, ColorScheme? darkDynamic) {
         ColorScheme lightColorScheme;
@@ -61,6 +67,15 @@ class MyApp extends StatelessWidget {
                 IconThemeData(color: lightColorScheme.onSecondaryContainer),
               ),
             ),
+            appBarTheme: const AppBarTheme(
+              systemOverlayStyle: SystemUiOverlayStyle(
+                statusBarColor: Colors.transparent,
+                statusBarIconBrightness: Brightness.dark,
+                statusBarBrightness: Brightness.light,
+                systemNavigationBarColor: Colors.transparent,
+                systemNavigationBarDividerColor: Colors.transparent,
+              ),
+            ),
           ),
           darkTheme: ThemeData(
             colorScheme: darkColorScheme,
@@ -73,6 +88,15 @@ class MyApp extends StatelessWidget {
               ),
               iconTheme: WidgetStateProperty.all(
                 IconThemeData(color: darkColorScheme.onSecondaryContainer),
+              ),
+            ),
+            appBarTheme: const AppBarTheme(
+              systemOverlayStyle: SystemUiOverlayStyle(
+                statusBarColor: Colors.transparent,
+                statusBarIconBrightness: Brightness.light,
+                statusBarBrightness: Brightness.dark,
+                systemNavigationBarColor: Colors.transparent,
+                systemNavigationBarDividerColor: Colors.transparent,
               ),
             ),
           ),

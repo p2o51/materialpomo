@@ -4,7 +4,7 @@
             "outputFile": "com.example.material_pomodoro.app-mergeDebugResources-38:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/chenwuyi/Developer/materialpomo/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:2:5-33:19
 MERGED from [com.google.android.material:material:1.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/8efed52fe90647b044515dd17d2cb1e2/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/8efed52fe90647b044515dd17d2cb1e2/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/d47b1192960df52846144d82ac9e1d6f/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
@@ -22,15 +22,15 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/chen
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/fac84cd5ecf1ec88a8c98571217c9350/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-MERGED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-MERGED from [:dynamic_color] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/dynamic_color/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:dynamic_color] /Users/chenwuyi/Developer/materialpomo/build/dynamic_color/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.material:material:1.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/8efed52fe90647b044515dd17d2cb1e2/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.media:media:1.1.0] /Users/chenwuyi/.gradle/caches/transforms-3/f0e2a8f4847187f7a6be5166c22676ab/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/d47b1192960df52846144d82ac9e1d6f/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
@@ -77,43 +77,43 @@ MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/chenwuyi/.gradle
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chenwuyi/.gradle/caches/transforms-3/26cee19f61d6be51bdc8bf28ce2ba4f2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chenwuyi/.gradle/caches/transforms-3/c1f61a2cd9c60583ebfd1a93dd1e35c2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/chenwuyi/.gradle/caches/transforms-3/fe909f5f33e74c2ab780e2e42ecc6de9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:1-45:12
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:1:11-69
 queries
-ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:39:5-44:15
+ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:39:5-44:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:40:9-43:18
+ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:40:9-43:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:41:13-72
+ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:41:21-70
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:21-70
 data
-ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:42:13-50
+ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:13-50
 	android:mimeType
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml:42:19-48
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:19-48
 uses-sdk
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-MERGED from [:dynamic_color] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/dynamic_color/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:dynamic_color] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/dynamic_color/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+MERGED from [:dynamic_color] /Users/chenwuyi/Developer/materialpomo/build/dynamic_color/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:dynamic_color] /Users/chenwuyi/Developer/materialpomo/build/dynamic_color/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/8efed52fe90647b044515dd17d2cb1e2/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/8efed52fe90647b044515dd17d2cb1e2/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.media:media:1.1.0] /Users/chenwuyi/.gradle/caches/transforms-3/f0e2a8f4847187f7a6be5166c22676ab/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -206,26 +206,26 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chenwuyi/.gradle/caches/transforms-3/c1f61a2cd9c60583ebfd1a93dd1e35c2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/chenwuyi/.gradle/caches/transforms-3/fe909f5f33e74c2ab780e2e42ecc6de9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/chenwuyi/.gradle/caches/transforms-3/fe909f5f33e74c2ab780e2e42ecc6de9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/chenwuyi/Developer/materialpomo/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.VIBRATE
-ADDED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+ADDED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
 	android:name
-		ADDED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
+		ADDED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+ADDED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
 	android:name
-		ADDED from [:flutter_local_notifications] /Users/chenwuyi/AndroidStudioProjects/material_pomodoro/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
+		ADDED from [:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/d47b1192960df52846144d82ac9e1d6f/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

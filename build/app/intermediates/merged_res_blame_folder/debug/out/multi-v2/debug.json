@@ -1303,6 +1303,25 @@
                     }
                 },
                 {
+                    "source": "/Users/chenwuyi/Developer/materialpomo/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "5002,5094",
+                        "startColumns": "4,4",
+                        "startOffsets": "341485,347681",
+                        "endLines": "5005,5096",
+                        "endColumns": "12,12",
+                        "endOffsets": "341661,347845"
+                    }
+                },
+                {
                     "source": "/Users/chenwuyi/.gradle/caches/transforms-3/d1c28d234c5d5744afd395bdcae667a7/transformed/jetified-appcompat-resources-1.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -1410,25 +1429,6 @@
                         "startOffsets": "96195",
                         "endColumns": "49",
                         "endOffsets": "96240"
-                    }
-                },
-                {
-                    "source": "/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "5002,5094",
-                        "startColumns": "4,4",
-                        "startOffsets": "341485,347681",
-                        "endLines": "5005,5096",
-                        "endColumns": "12,12",
-                        "endOffsets": "341661,347845"
                     }
                 },
                 {
@@ -4190,7 +4190,7 @@
             "outputFile": "com.example.material_pomodoro.app-merged_res-40:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/AndroidStudioProjects/material_pomodoro/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/chenwuyi/Developer/materialpomo/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
