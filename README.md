@@ -2,6 +2,7 @@
 
 Material You Design Pomodoro Focus App
 使用 Flutter 进行开发，开发到专注页面做完准备转 Kotlin 了，因为 Flutter 的取色有问题。
+2024.10.7 最新更新又不想转了，因为没时间学。
 
 ## Getting Started
 
