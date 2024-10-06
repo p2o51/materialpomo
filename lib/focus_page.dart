@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:flutter_local_notifications/flutter_local_notifications.dart'
+    as fln;
 import 'dart:math' as math;
+import 'package:flutter/scheduler.dart';
 
 class FocusPage extends StatefulWidget {
   const FocusPage({super.key});
@@ -13,10 +15,11 @@ class FocusPage extends StatefulWidget {
 class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
   int _remainingTime = 1500; // 25分钟，单位为秒
   Timer? _timer;
+  late Ticker _ticker;
   bool _isRunning = false;
   int _workDuration = 25; // 默认工作时长，单位为分钟
   int _restDuration = 5; // 默认休息时长，单位为分钟
-  late FlutterLocalNotificationsPlugin _localNotificationsPlugin;
+  late fln.FlutterLocalNotificationsPlugin _localNotificationsPlugin;
 
   // 添加专注和休息时间的选项
   final List<int> _focusOptions = [25, 35, 45];
@@ -35,10 +38,10 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
   @override
   void initState() {
     super.initState();
-    _localNotificationsPlugin = FlutterLocalNotificationsPlugin();
-    const android = AndroidInitializationSettings('@mipmap/ic_launcher');
-    const iOS = DarwinInitializationSettings();
-    const initSettings = InitializationSettings(android: android, iOS: iOS);
+    _localNotificationsPlugin = fln.FlutterLocalNotificationsPlugin();
+    const android = fln.AndroidInitializationSettings('@mipmap/ic_launcher');
+    const iOS = fln.DarwinInitializationSettings();
+    const initSettings = fln.InitializationSettings(android: android, iOS: iOS);
     _localNotificationsPlugin.initialize(initSettings);
 
     _animationController = AnimationController(
@@ -56,8 +59,9 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
     ));
     _waveAnimationController = AnimationController(
       vsync: this,
-      duration: const Duration(seconds: 2),
-    )..repeat(); // 确保动画重复
+      duration: const Duration(
+          milliseconds: 1000), // Reduced duration for faster movement
+    )..repeat();
     _fadeAnimationController = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 500),
@@ -66,34 +70,39 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
       parent: _fadeAnimationController,
       curve: Curves.easeInOut,
     ));
+
+    _ticker = createTicker((elapsed) {
+      setState(() {
+        // 这里只触发重绘，不更新 _remainingTime
+      });
+    });
   }
 
   void _startPauseTimer() {
     if (_isRunning) {
       _timer?.cancel();
+      _ticker.stop();
       _waveAnimationController.stop();
       _fadeAnimationController.reverse(); // 淡出效果
-      print("Timer paused");
     } else {
       _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
         setState(() {
           if (_remainingTime > 0) {
             _remainingTime--;
           } else {
-            _timer?.cancel();
-            _isRunning = false;
+            _stopTimers();
             _showNotification();
             _startRestTimer();
           }
         });
       });
+      _ticker.start();
       _waveAnimationController.repeat();
       _fadeAnimationController.forward(); // 淡入效果
-      print("Timer started");
     }
     setState(() {
       _isRunning = !_isRunning;
-      _isResting = false; // Set to work mode when starting/resuming timer
+      _isResting = false; // 设置为工作模式
       if (_isRunning) {
         _animationController.forward();
         _moveAnimationController.forward();
@@ -108,26 +117,32 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
     setState(() {
       _remainingTime = _restDuration * 60;
       _isRunning = true;
-      _isResting = true; // Set to rest mode when starting rest timer
+      _isResting = true;
     });
-    _waveAnimationController.repeat(); // 启动波浪动画
+    _waveAnimationController.repeat();
+    _ticker.start();
+
     _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
         if (_remainingTime > 0) {
           _remainingTime--;
         } else {
-          _timer?.cancel();
-          _isRunning = false;
-          _waveAnimationController.stop(); // 停止波浪动画
+          _stopTimers();
           _showNotification();
         }
       });
     });
   }
 
-  void _resetTimer() {
+  void _stopTimers() {
     _timer?.cancel();
+    _ticker.stop();
+    _isRunning = false;
     _waveAnimationController.stop();
+  }
+
+  void _resetTimer() {
+    _stopTimers();
     _fadeAnimationController.reverse(); // 淡出效果
     setState(() {
       _remainingTime = _workDuration * 60;
@@ -210,7 +225,7 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                                   : 0,
                               fadeAnimation: _fadeAnimation, // 添加淡入淡出动画
                             ),
-                            child: Container(
+                            child: SizedBox(
                               width: 200,
                               height: 200,
                             ),
@@ -327,10 +342,11 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
 
   @override
   void dispose() {
-    _timer?.cancel();
+    _stopTimers();
+    _ticker.dispose();
+    _waveAnimationController.dispose();
     _animationController.dispose();
     _moveAnimationController.dispose();
-    _waveAnimationController.dispose();
     _fadeAnimationController.dispose();
     super.dispose();
   }
@@ -368,16 +384,16 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
   }
 
   Future<void> _showNotification() async {
-    const AndroidNotificationDetails androidPlatformChannelSpecifics =
-        AndroidNotificationDetails(
+    const fln.AndroidNotificationDetails androidPlatformChannelSpecifics =
+        fln.AndroidNotificationDetails(
       'focus_timer_channel',
       'Focus Timer Notifications',
-      importance: Importance.max,
-      priority: Priority.high,
+      importance: fln.Importance.max,
+      priority: fln.Priority.high,
       showWhen: false,
     );
-    const NotificationDetails platformChannelSpecifics =
-        NotificationDetails(android: androidPlatformChannelSpecifics);
+    const fln.NotificationDetails platformChannelSpecifics =
+        fln.NotificationDetails(android: androidPlatformChannelSpecifics);
     await _localNotificationsPlugin.show(
       0,
       'Focus Timer',
@@ -404,36 +420,35 @@ class WavePainter extends CustomPainter {
   final bool isRunning;
   final ColorScheme colorScheme;
   final double progress;
-  final Animation<double> fadeAnimation; // 新增淡入淡出动画
+  final Animation<double> fadeAnimation;
 
   WavePainter({
     required this.animation,
     required this.isRunning,
     required this.colorScheme,
     required this.progress,
-    required this.fadeAnimation, // 新增参数
+    required this.fadeAnimation,
   });
 
   @override
   void paint(Canvas canvas, Size size) {
-    final opacity = fadeAnimation.value; // 获取当前不透明度
-    if (opacity == 0) return; // 如果完全透明，则不绘制
+    final opacity = fadeAnimation.value;
+    if (opacity == 0) return;
 
-    final startHeight = size.height * 0.95; // 开始时波浪高度为 5%
-    final y = startHeight - (startHeight * progress); // 计算当前波浪高度
+    final startHeight = size.height * 0.95;
+    final y = startHeight - (startHeight * progress);
 
-    // 创建一个圆形的裁剪路径
     final clipPath = Path()
       ..addOval(Rect.fromCircle(
         center: Offset(size.width / 2, size.height / 2),
         radius: size.width / 2,
       ));
 
-    // 应用裁剪
     canvas.clipPath(clipPath);
 
-    final wave1 = _buildWavePath(size, animation.value, 1.5, y);
-    final wave2 = _buildWavePath(size, animation.value + 0.5, 1.0, y);
+    final now = DateTime.now().millisecondsSinceEpoch / 1000.0;
+    final wave1 = _buildWavePath(size, now, 1.5, y);
+    final wave2 = _buildWavePath(size, now + 0.5, 1.0, y);
 
     final paint1 = Paint()
       ..color = colorScheme.primaryContainer.withOpacity(0.7 * opacity);
@@ -444,16 +459,14 @@ class WavePainter extends CustomPainter {
     canvas.drawPath(wave1, paint1);
   }
 
-  Path _buildWavePath(
-      Size size, double animationValue, double waveHeight, double y) {
+  Path _buildWavePath(Size size, double time, double waveHeight, double y) {
     final path = Path();
     path.moveTo(0, y);
     for (var i = 0.0; i <= size.width; i++) {
       path.lineTo(
         i,
         y +
-            math.sin((i / size.width * 4 * math.pi) +
-                    (animationValue * 2 * math.pi)) *
+            math.sin((i / size.width * 4 * math.pi) + (time * 2 * math.pi)) *
                 waveHeight *
                 10,
       );
@@ -466,8 +479,6 @@ class WavePainter extends CustomPainter {
 
   @override
   bool shouldRepaint(covariant WavePainter oldDelegate) {
-    return oldDelegate.animation.value != animation.value ||
-        oldDelegate.progress != progress ||
-        oldDelegate.fadeAnimation.value != fadeAnimation.value; // 添加新的判断条件
+    return true; // 始终重绘以确保流畅的动画
   }
 }

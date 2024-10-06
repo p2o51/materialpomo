@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.material_pomodoro.app-mergeDebugResources-38:/values-port/values-port.xml",
+            "outputFile": "com.example.material_pomodoro.app-mergeDebugResources-40:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/8231869dc15aa7c52f8c09beb2a7eb3d/transformed/appcompat-1.5.0/res/values-port/values-port.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

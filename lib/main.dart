@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flex_color_scheme/flex_color_scheme.dart';
-import 'package:dynamic_color/dynamic_color.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'l10n/app_localizations.dart';
 import 'focus_page.dart';
 import 'todo_page.dart';
 import 'stats_page.dart';
-import 'package:flutter/services.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,95 +14,23 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
-      statusBarColor: Colors.transparent,
-      statusBarIconBrightness: Brightness.dark,
-      statusBarBrightness: Brightness.light,
-    ));
-    return DynamicColorBuilder(
-      builder: (ColorScheme? lightDynamic, ColorScheme? darkDynamic) {
-        ColorScheme lightColorScheme;
-        ColorScheme darkColorScheme;
-
-        if (lightDynamic != null && darkDynamic != null) {
-          lightColorScheme = lightDynamic.harmonized();
-          darkColorScheme = darkDynamic.harmonized();
-        } else {
-          lightColorScheme = FlexColorScheme.light(
-            scheme: FlexScheme.mandyRed,
-            surfaceMode: FlexSurfaceMode.highScaffoldLowSurface,
-            blendLevel: 20,
-            subThemesData: const FlexSubThemesData(
-              blendOnLevel: 10,
-              blendOnColors: false,
-            ),
-            visualDensity: FlexColorScheme.comfortablePlatformDensity,
-            useMaterial3: true,
-          ).toScheme;
-          darkColorScheme = FlexColorScheme.dark(
-            scheme: FlexScheme.mandyRed,
-            surfaceMode: FlexSurfaceMode.highScaffoldLowSurface,
-            blendLevel: 15,
-            subThemesData: const FlexSubThemesData(
-              blendOnLevel: 20,
-            ),
-            visualDensity: FlexColorScheme.comfortablePlatformDensity,
-            useMaterial3: true,
-          ).toScheme;
-        }
-
-        return MaterialApp(
-          title: '番茄钟',
-          theme: ThemeData(
-            colorScheme: lightColorScheme,
-            useMaterial3: true,
-            navigationBarTheme: NavigationBarThemeData(
-              backgroundColor: lightColorScheme.surfaceContainerHighest,
-              indicatorColor: lightColorScheme.secondaryContainer,
-              labelTextStyle: WidgetStateProperty.all(
-                TextStyle(color: lightColorScheme.onSecondaryContainer),
-              ),
-              iconTheme: WidgetStateProperty.all(
-                IconThemeData(color: lightColorScheme.onSecondaryContainer),
-              ),
-            ),
-            appBarTheme: const AppBarTheme(
-              systemOverlayStyle: SystemUiOverlayStyle(
-                statusBarColor: Colors.transparent,
-                statusBarIconBrightness: Brightness.dark,
-                statusBarBrightness: Brightness.light,
-                systemNavigationBarColor: Colors.transparent,
-                systemNavigationBarDividerColor: Colors.transparent,
-              ),
-            ),
-          ),
-          darkTheme: ThemeData(
-            colorScheme: darkColorScheme,
-            useMaterial3: true,
-            navigationBarTheme: NavigationBarThemeData(
-              backgroundColor: darkColorScheme.surfaceContainerHighest,
-              indicatorColor: darkColorScheme.secondaryContainer,
-              labelTextStyle: WidgetStateProperty.all(
-                TextStyle(color: darkColorScheme.onSecondaryContainer),
-              ),
-              iconTheme: WidgetStateProperty.all(
-                IconThemeData(color: darkColorScheme.onSecondaryContainer),
-              ),
-            ),
-            appBarTheme: const AppBarTheme(
-              systemOverlayStyle: SystemUiOverlayStyle(
-                statusBarColor: Colors.transparent,
-                statusBarIconBrightness: Brightness.light,
-                statusBarBrightness: Brightness.dark,
-                systemNavigationBarColor: Colors.transparent,
-                systemNavigationBarDividerColor: Colors.transparent,
-              ),
-            ),
-          ),
-          themeMode: ThemeMode.system,
-          home: const MyHomePage(),
-        );
-      },
+    return MaterialApp(
+      title: 'Todo App',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+      ),
+      home: const MyHomePage(), // 修改这里，使用 MyHomePage 而不是 TodoPage
+      localizationsDelegates: const [
+        AppLocalizationsDelegate(),
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
+      supportedLocales: const [
+        Locale('en', ''),
+        Locale('ja', ''),
+      ],
     );
   }
 }
@@ -116,7 +43,12 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _selectedIndex = 0; // 当前选中的标签页索引
+  int _selectedIndex = 0;
+  final List<Widget> _pages = [
+    const FocusPage(),
+    const TodoPage(),
+    const StatsPage(),
+  ];
 
   void _onItemTapped(int index) {
     setState(() {
@@ -126,37 +58,29 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
+    final localizations = AppLocalizations.of(context);
     return Scaffold(
-      extendBody: true,
-      extendBodyBehindAppBar: true,
-      body: Center(
-        child: _selectedIndex == 0
-            ? const FocusPage()
-            : _selectedIndex == 1
-                ? const TodoPage()
-                : const StatsPage(),
+      body: IndexedStack(
+        index: _selectedIndex,
+        children: _pages,
       ),
-      bottomNavigationBar: BottomAppBar(
-        shape: const CircularNotchedRectangle(),
-        notchMargin: 8.0,
-        child: NavigationBar(
-          selectedIndex: _selectedIndex,
-          onDestinationSelected: _onItemTapped,
-          destinations: const <NavigationDestination>[
-            NavigationDestination(
-              icon: Icon(Icons.timer),
-              label: '专注',
-            ),
-            NavigationDestination(
-              icon: Icon(Icons.list),
-              label: '待办',
-            ),
-            NavigationDestination(
-              icon: Icon(Icons.bar_chart),
-              label: '统计',
-            ),
-          ],
-        ),
+      bottomNavigationBar: NavigationBar(
+        selectedIndex: _selectedIndex,
+        onDestinationSelected: _onItemTapped,
+        destinations: <NavigationDestination>[
+          NavigationDestination(
+            icon: const Icon(Icons.timer),
+            label: localizations.focusTab,
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.list),
+            label: localizations.todoTab,
+          ),
+          NavigationDestination(
+            icon: const Icon(Icons.bar_chart),
+            label: localizations.statsTab,
+          ),
+        ],
       ),
     );
   }

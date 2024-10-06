@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.material_pomodoro.app-mergeDebugResources-38:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.example.material_pomodoro.app-mergeDebugResources-40:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/8efed52fe90647b044515dd17d2cb1e2/transformed/material-1.7.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
