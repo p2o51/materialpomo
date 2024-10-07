@@ -4,6 +4,8 @@ import 'l10n/app_localizations.dart';
 import 'focus_page.dart';
 import 'todo_page.dart';
 import 'stats_page.dart';
+import 'package:provider/provider.dart';
+import 'focus_todo_provider.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,23 +16,26 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Todo App',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
+    return ChangeNotifierProvider(
+      create: (context) => FocusTodoProvider(),
+      child: MaterialApp(
+        title: 'Todo App',
+        theme: ThemeData(
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+          useMaterial3: true,
+        ),
+        home: const MyHomePage(),
+        localizationsDelegates: const [
+          AppLocalizationsDelegate(),
+          GlobalMaterialLocalizations.delegate,
+          GlobalWidgetsLocalizations.delegate,
+          GlobalCupertinoLocalizations.delegate,
+        ],
+        supportedLocales: const [
+          Locale('en', ''),
+          Locale('ja', ''),
+        ],
       ),
-      home: const MyHomePage(), // 修改这里，使用 MyHomePage 而不是 TodoPage
-      localizationsDelegates: const [
-        AppLocalizationsDelegate(),
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-        GlobalCupertinoLocalizations.delegate,
-      ],
-      supportedLocales: const [
-        Locale('en', ''),
-        Locale('ja', ''),
-      ],
     );
   }
 }

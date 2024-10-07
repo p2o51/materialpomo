@@ -4,6 +4,8 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart'
     as fln;
 import 'dart:math' as math;
 import 'package:flutter/scheduler.dart';
+import 'package:provider/provider.dart';
+import 'focus_todo_provider.dart';
 
 class FocusPage extends StatefulWidget {
   const FocusPage({super.key});
@@ -188,6 +190,18 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Consumer<FocusTodoProvider>(
+          builder: (context, focusTodoProvider, child) {
+            return Text(
+              focusTodoProvider.focusTodo != null
+                  ? "正在专注于：${focusTodoProvider.focusTodo}"
+                  : (_isRunning ? "自由专注中" : "专注"),
+            );
+          },
+        ),
+        elevation: 0,
+      ),
       body: SafeArea(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -238,7 +252,7 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                       animation: _moveAnimation,
                       builder: (context, child) {
                         return Transform.translate(
-                          offset: Offset(0, _moveAnimation.value * 220), // 位移距离
+                          offset: Offset(0, _moveAnimation.value * 220), // 位移距
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
                             children: [

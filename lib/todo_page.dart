@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'l10n/app_localizations.dart';
+import 'package:provider/provider.dart';
+import 'focus_todo_provider.dart';
 
 class TodoPage extends StatefulWidget {
   const TodoPage({super.key});
@@ -14,6 +16,7 @@ class _TodoPageState extends State<TodoPage> {
   final List<bool> _todoStatus = [];
   final List<int> _todoPriorities = []; // 0: low, 1: medium, 2: high
   final TextEditingController _todoController = TextEditingController();
+  String? _pushedTodo;
 
   @override
   void initState() {
@@ -106,12 +109,17 @@ class _TodoPageState extends State<TodoPage> {
     return _todoStatus.where((status) => status).length / _todos.length;
   }
 
+  void _pushTodo(String todo) {
+    Provider.of<FocusTodoProvider>(context, listen: false).setFocusTodo(todo);
+  }
+
   @override
   Widget build(BuildContext context) {
     final localizations = AppLocalizations.of(context);
     return Scaffold(
       appBar: AppBar(
-        title: Text(localizations.todoList),
+        title: Text(_pushedTodo ?? localizations.todoList),
+        elevation: 0,
       ),
       body: SafeArea(
         child: Column(
@@ -124,10 +132,9 @@ class _TodoPageState extends State<TodoPage> {
             ),
             Expanded(
               child: ListView.separated(
-                padding: const EdgeInsets.only(top: 4), // Add this line
+                padding: const EdgeInsets.only(top: 4),
                 itemCount: _todos.length,
-                separatorBuilder: (context, index) =>
-                    const SizedBox(height: 8), // Add this line
+                separatorBuilder: (context, index) => const SizedBox(height: 8),
                 itemBuilder: (context, index) {
                   return TodoItem(
                     todo: _todos[index],
@@ -136,6 +143,7 @@ class _TodoPageState extends State<TodoPage> {
                     onDelete: () => _removeTodo(index),
                     onToggle: () => _toggleTodoStatus(index),
                     onPriorityChange: () => _cyclePriority(index),
+                    onPush: () => _pushTodo(_todos[index]),
                   );
                 },
               ),
@@ -184,6 +192,7 @@ class TodoItem extends StatelessWidget {
   final VoidCallback onDelete;
   final VoidCallback onToggle;
   final VoidCallback onPriorityChange;
+  final VoidCallback onPush;
 
   const TodoItem({
     super.key,
@@ -193,6 +202,7 @@ class TodoItem extends StatelessWidget {
     required this.onDelete,
     required this.onToggle,
     required this.onPriorityChange,
+    required this.onPush,
   });
 
   @override
@@ -201,10 +211,10 @@ class TodoItem extends StatelessWidget {
     return Dismissible(
       key: Key(todo),
       background: Container(
-        color: Colors.red,
+        color: Colors.green,
         alignment: Alignment.centerLeft,
         padding: const EdgeInsets.only(left: 16),
-        child: const Icon(Icons.delete, color: Colors.white),
+        child: const Icon(Icons.play_arrow, color: Colors.white),
       ),
       secondaryBackground: Container(
         color: Colors.red,
@@ -213,10 +223,19 @@ class TodoItem extends StatelessWidget {
         child: const Icon(Icons.delete, color: Colors.white),
       ),
       onDismissed: (direction) {
-        onDelete();
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text(localizations.todoDeleted)),
-        );
+        if (direction == DismissDirection.endToStart) {
+          onDelete();
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text(localizations.todoDeleted)),
+          );
+        }
+      },
+      confirmDismiss: (direction) async {
+        if (direction == DismissDirection.startToEnd) {
+          onPush();
+          return false;
+        }
+        return true;
       },
       child: ListTile(
         leading: _buildPriorityButton(context),
