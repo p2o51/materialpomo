@@ -139,8 +139,15 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
   void _stopTimers() {
     _timer?.cancel();
     _ticker.stop();
-    _isRunning = false;
     _waveAnimationController.stop();
+    _fadeAnimationController.reverse(); // Fade out effect
+    setState(() {
+      _isRunning = false;
+      _isResting = false;
+      _remainingTime = _workDuration * 60; // Reset to work duration
+      _animationController.reverse();
+      _moveAnimationController.reverse();
+    });
   }
 
   void _resetTimer() {
@@ -196,10 +203,31 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
             return Text(
               focusTodoProvider.focusTodo != null
                   ? "正在专注于：${focusTodoProvider.focusTodo}"
-                  : (_isRunning ? "自由专注中" : "专注"),
+                  : (_isRunning || _remainingTime < _workDuration * 60
+                      ? "自由专注中"
+                      : "专注"),
+              style: TextStyle(fontSize: 18),
             );
           },
         ),
+        titleSpacing: 16, // Add some padding to the left of the title
+        actions: [
+          // Add the stop button
+          IconButton.filled(
+            onPressed: (_isRunning || _remainingTime < _workDuration * 60)
+                ? _stopTimers
+                : null,
+            icon:
+                const Icon(Icons.stop_outlined), // Using the outlined stop icon
+            style: IconButton.styleFrom(
+              backgroundColor:
+                  (_isRunning || _remainingTime < _workDuration * 60)
+                      ? Theme.of(context).colorScheme.primaryContainer
+                      : Theme.of(context).colorScheme.surfaceVariant,
+            ),
+          ),
+          SizedBox(width: 16), // Add some padding to the right
+        ],
         elevation: 0,
       ),
       body: SafeArea(
@@ -340,7 +368,7 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                     ),
                   ),
                   SizedBox(
-                    height: 80, // 为按钮预留足够的空间
+                    height: 80, // 为按钮预留足够的空��
                     child: Center(
                       child: _buildAnimatedButton(),
                     ),

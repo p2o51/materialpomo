@@ -57,13 +57,21 @@ class _TodoPageState extends State<TodoPage> {
     }
   }
 
-  void _removeTodo(int index) {
+  void _removeTodo(int index) async {
+    final prefs = await SharedPreferences.getInstance();
+
     setState(() {
       _todos.removeAt(index);
       _todoStatus.removeAt(index);
       _todoPriorities.removeAt(index);
     });
-    _saveTodos();
+
+    // Update the local storage
+    await prefs.setStringList('todos', _todos);
+    await prefs.setStringList(
+        'todoStatus', _todoStatus.map((e) => e.toString()).toList());
+    await prefs.setStringList(
+        'todoPriorities', _todoPriorities.map((e) => e.toString()).toList());
   }
 
   void _toggleTodoStatus(int index) {
