@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_media.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_media_custom.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_big_media.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_lines_media.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_big_media_custom.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_part_chronometer.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/ime_base_split_test_activity.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/custom_dialog.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_media_action.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_media_cancel_action.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_custom_big.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_icon_group.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_part_time.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_action.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_template_big_media_narrow.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/layout/notification_action_tombstone.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.13.1-6:/layout/notification_action_tombstone.xml"
+    }
+]

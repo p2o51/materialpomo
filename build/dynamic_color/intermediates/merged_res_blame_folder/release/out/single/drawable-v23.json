@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/mtrl_popupmenu_background_overlay.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/m3_popupmenu_background_overlay.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/m3_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/m3_appbar_background.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/m3_appbar_background.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/m3_selection_control_ripple.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/m3_selection_control_ripple.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/m3_radiobutton_ripple.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/m3_radiobutton_ripple.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/m3_tabs_transparent_background.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/m3_tabs_transparent_background.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/m3_tabs_background.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/drawable-v23/m3_tabs_background.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-v23/abc_control_background_material.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/drawable-v23/abc_control_background_material.xml"
+    }
+]

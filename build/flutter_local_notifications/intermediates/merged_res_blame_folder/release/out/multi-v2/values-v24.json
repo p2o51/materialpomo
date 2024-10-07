@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-27:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/3e65ec9f72470b1813e95f83359df88c/transformed/media-1.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-25:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/3e65ec9f72470b1813e95f83359df88c/transformed/media-1.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

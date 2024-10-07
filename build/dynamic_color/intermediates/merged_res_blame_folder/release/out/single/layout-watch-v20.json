@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

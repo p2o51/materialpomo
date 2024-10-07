@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/animator/fragment_fade_exit.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-fragment-1.7.1-12:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/animator/fragment_open_enter.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-fragment-1.7.1-12:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/animator/fragment_close_exit.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-fragment-1.7.1-12:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/animator/fragment_fade_enter.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-fragment-1.7.1-12:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/animator/fragment_open_exit.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-fragment-1.7.1-12:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/animator/fragment_close_enter.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-fragment-1.7.1-12:/animator/fragment_close_enter.xml"
+    }
+]

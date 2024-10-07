@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    }
+]

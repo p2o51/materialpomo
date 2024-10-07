@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    }
+]

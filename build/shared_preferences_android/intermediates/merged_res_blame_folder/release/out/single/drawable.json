@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable/notification_icon_background.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable/notification_tile_bg.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable/notification_bg.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/drawable/notification_bg_low.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/drawable/notification_bg_low.xml"
+    }
+]

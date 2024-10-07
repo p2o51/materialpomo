@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/notification_template_part_chronometer.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/notification_template_part_time.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/notification_action_tombstone.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/notification_action.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/notification_action.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/ime_secondary_split_test_activity.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/ime_base_split_test_activity.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/notification_template_icon_group.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/custom_dialog.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-28:/layout/notification_template_custom_big.xml",
+        "source": "io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.13.1-6:/layout/notification_template_custom_big.xml"
+    }
+]

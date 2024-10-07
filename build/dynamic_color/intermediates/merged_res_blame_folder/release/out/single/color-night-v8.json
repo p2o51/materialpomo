@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/color-night-v8/material_timepicker_clockface.xml"
+    }
+]

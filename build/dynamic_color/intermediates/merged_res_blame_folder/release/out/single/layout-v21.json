@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-v21/notification_action_tombstone.xml",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-v21/notification_template_icon_group.xml",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-v21/notification_template_custom_big.xml",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-v21/notification_action.xml",
+        "source": "io.material.plugins.dynamic_color-core-1.13.1-13:/layout-v21/notification_action.xml"
+    }
+]

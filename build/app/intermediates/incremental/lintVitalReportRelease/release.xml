@@ -1,0 +1,40 @@
+<variant
+    name="release"
+    package="com.example.material_pomodoro"
+    minSdkVersion="21"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/Users/chenwuyi/Developer/materialpomo/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/opt/homebrew/Caskroom/flutter/3.24.1/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/lint_vital_partial_results/release/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin"
+        resDirectories="src/main/res"
+        assetsDirectories="src/main/assets"/>
+    <sourceProvider
+        manifest="src/release/AndroidManifest.xml"
+        javaDirectories="src/release/java:src/release/kotlin"
+        resDirectories="src/release/res"
+        assetsDirectories="src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/javac/release/classes:/Users/chenwuyi/Developer/materialpomo/build/app/tmp/kotlin-classes/release:/Users/chenwuyi/Developer/materialpomo/build/app/kotlinToolingMetadata:/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      applicationId="com.example.material_pomodoro"
+      generatedSourceFolders="/Users/chenwuyi/Developer/materialpomo/build/app/generated/ap_generated_sources/release/out:/Users/chenwuyi/Developer/materialpomo/build/app/generated/aidl_source_output_dir/release/out:/Users/chenwuyi/Developer/materialpomo/build/app/generated/source/buildConfig/release:/Users/chenwuyi/Developer/materialpomo/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/Users/chenwuyi/Developer/materialpomo/build/app/generated/res/rs/release:/Users/chenwuyi/Developer/materialpomo/build/app/generated/res/resValues/release">
+  </mainArtifact>
+</variant>
