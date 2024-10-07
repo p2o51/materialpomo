@@ -1,22 +1,22 @@
 [
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/anim-v21/fragment_fast_out_extra_slow_in.xml",
-        "source": "io.material.plugins.dynamic_color-fragment-1.7.1-20:/anim-v21/fragment_fast_out_extra_slow_in.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "io.material.plugins.dynamic_color-fragment-1.7.1-9:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
         "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
     }
 ]

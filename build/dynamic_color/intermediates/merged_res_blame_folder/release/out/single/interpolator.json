@@ -1,74 +1,74 @@
 [
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_standard.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_standard.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/mtrl_fast_out_linear_in.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_fast_out_linear_in.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/mtrl_linear.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_linear.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/mtrl_fast_out_slow_in.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_fast_out_slow_in.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/mtrl_linear_out_slow_in.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_linear_out_slow_in.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_emphasized.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_emphasized.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_standard_decelerate.xml",
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_standard_decelerate.xml",
         "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_standard_decelerate.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_standard_accelerate.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_standard_accelerate.xml"
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_fast_out_slow_in.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/fast_out_slow_in.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/fast_out_slow_in.xml"
-    },
-    {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml",
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml",
         "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/m3_sys_motion_easing_linear.xml",
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_standard.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_standard.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_standard_accelerate.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_standard_accelerate.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/fast_out_slow_in.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_linear.xml",
         "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_linear.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/mtrl_linear.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_emphasized.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
     }
 ]

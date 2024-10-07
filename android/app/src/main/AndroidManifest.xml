@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Removed package attribute -->
     <application
         android:label="material_pomodoro"
         android:name="${applicationName}"

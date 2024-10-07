@@ -2,10 +2,6 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="io.material.plugins.dynamic_color" >
 4
-5    <uses-sdk
-6        android:minSdkVersion="16"
-6-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-7        android:targetSdkVersion="16" />
-7-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-8
-9</manifest>
+5    <uses-sdk android:minSdkVersion="16" />
+6
+7</manifest>

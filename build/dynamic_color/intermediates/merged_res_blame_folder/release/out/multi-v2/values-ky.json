@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "io.material.plugins.dynamic_color-merged_res-38:/values-ky/values-ky.xml",
+            "outputFile": "io.material.plugins.dynamic_color-merged_res-37:/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-ky/values-ky.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,360,467,571,675,786",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "150,252,355,462,566,670,781,882"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,98",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3112,3212,3314,3417,3524,3628,3732,8382",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "3207,3309,3412,3519,3623,3727,3838,8478"
+                    }
+                },
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-ky/values-ky.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -37,32 +54,32 @@
                         "endLines": "5,33,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96",
                         "endColumns": "12,84,100,140,83,63,93,69,60,86,63,58,73,61,53,116,57,60,53,73,121,83,95,131,77,77,88,60,54,65,68,76,86,71,75,81,72,84,78,89,91,73,84,89,51,64,82,84,61,63,62,116,93,99,94,64,58,81",
                         "endOffsets": "310,3107,3939,4080,4164,4228,4322,4392,4453,4540,4604,4663,4737,4799,4853,4970,5028,5089,5143,5217,5339,5423,5519,5651,5729,5807,5896,5957,6012,6078,6147,6224,6311,6383,6459,6541,6614,6699,6778,6868,6960,7034,7119,7209,7261,7326,7409,7494,7556,7620,7683,7800,7894,7994,8089,8154,8213,8295"
-                    }
-                },
-                {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-ky/values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,360,467,571,675,786",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "150,252,355,462,566,670,781,882"
-                    },
-                    "to": {
-                        "startLines": "34,35,36,37,38,39,40,98",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3112,3212,3314,3417,3524,3628,3732,8382",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "3207,3309,3412,3519,3623,3727,3838,8478"
                     }
                 }
             ]
         },
         {
-            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-36:/values-ky/values-ky.xml",
+            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-35:/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-ky/values-ky.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,360,467,571,675,786",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "150,252,355,462,566,670,781,882"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,98",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3112,3212,3314,3417,3524,3628,3732,8382",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "3207,3309,3412,3519,3623,3727,3838,8478"
+                    }
+                },
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -79,7 +96,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-ky/values-ky.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -95,23 +112,6 @@
                         "endLines": "5,33,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96",
                         "endColumns": "12,84,100,140,83,63,93,69,60,86,63,58,73,61,53,116,57,60,53,73,121,83,95,131,77,77,88,60,54,65,68,76,86,71,75,81,72,84,78,89,91,73,84,89,51,64,82,84,61,63,62,116,93,99,94,64,58,81",
                         "endOffsets": "310,3107,3939,4080,4164,4228,4322,4392,4453,4540,4604,4663,4737,4799,4853,4970,5028,5089,5143,5217,5339,5423,5519,5651,5729,5807,5896,5957,6012,6078,6147,6224,6311,6383,6459,6541,6614,6699,6778,6868,6960,7034,7119,7209,7261,7326,7409,7494,7556,7620,7683,7800,7894,7994,8089,8154,8213,8295"
-                    }
-                },
-                {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-ky/values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,360,467,571,675,786",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "150,252,355,462,566,670,781,882"
-                    },
-                    "to": {
-                        "startLines": "34,35,36,37,38,39,40,98",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3112,3212,3314,3417,3524,3628,3732,8382",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "3207,3309,3412,3519,3623,3727,3838,8478"
                     }
                 }
             ]

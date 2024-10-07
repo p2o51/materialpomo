@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.material_pomodoro.app-mergeReleaseResources-40:/values-uk/values-uk.xml",
+            "outputFile": "com.example.material_pomodoro.app-mergeReleaseResources-39:/values-uk/values-uk.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-uk/values-uk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,358,459,564,669,782",
-                        "endColumns": "99,101,100,100,104,104,112,100",
-                        "endOffsets": "150,252,353,454,559,664,777,878"
-                    },
-                    "to": {
-                        "startLines": "36,37,38,39,40,41,42,100",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3236,3336,3438,3539,3640,3745,3850,8467",
-                        "endColumns": "99,101,100,100,104,104,112,100",
-                        "endOffsets": "3331,3433,3534,3635,3740,3845,3958,8563"
-                    }
-                },
-                {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-uk/values-uk.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-uk/values-uk.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-uk/values-uk.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-uk/values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -54,6 +37,23 @@
                         "startOffsets": "424,533,635,743,829,934,1052,1133,1212,1303,1396,1491,1585,1685,1778,1873,1968,2059,2150,2249,2355,2461,2559,2666,2773,2878,3048,8385",
                         "endColumns": "108,101,107,85,104,117,80,78,90,92,94,93,99,92,94,94,90,90,98,105,105,97,106,106,104,169,99,81",
                         "endOffsets": "528,630,738,824,929,1047,1128,1207,1298,1391,1486,1580,1680,1773,1868,1963,2054,2145,2244,2350,2456,2554,2661,2768,2873,3043,3143,8462"
+                    }
+                },
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,358,459,564,669,782",
+                        "endColumns": "99,101,100,100,104,104,112,100",
+                        "endOffsets": "150,252,353,454,559,664,777,878"
+                    },
+                    "to": {
+                        "startLines": "36,37,38,39,40,41,42,100",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3236,3336,3438,3539,3640,3745,3850,8467",
+                        "endColumns": "99,101,100,100,104,104,112,100",
+                        "endOffsets": "3331,3433,3534,3635,3740,3845,3958,8563"
                     }
                 }
             ]

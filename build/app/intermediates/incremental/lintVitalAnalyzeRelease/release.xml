@@ -5,22 +5,18 @@
     targetSdkVersion="34"
     shrinking="true"
     mergedManifest="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
-    proguardFiles="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/opt/homebrew/Caskroom/flutter/3.24.1/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    proguardFiles="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0:/opt/homebrew/Caskroom/flutter/3.24.1/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro:/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.1.0:proguard-rules.pro"
     partialResultsDir="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/lint_vital_partial_results/release/out"
-    desugaredMethodsFiles="/Users/chenwuyi/.gradle/caches/transforms-3/2c2f9caeb5480e1f2c15316c5b5032c3/transformed/D8BackportedDesugaredMethods.txt">
+    desugaredMethodsFiles="/Users/chenwuyi/.gradle/caches/transforms-3/22fee8e65a7ec999eeb4e464ff09a1f4/transformed/D8BackportedDesugaredMethods.txt">
   <buildFeatures
+      viewBinding="true"
       namespacing="REQUIRED"/>
   <sourceProviders>
     <sourceProvider
-        manifest="src/main/AndroidManifest.xml"
-        javaDirectories="src/main/java:src/main/kotlin"
-        resDirectories="src/main/res"
-        assetsDirectories="src/main/assets"/>
-    <sourceProvider
-        manifest="src/release/AndroidManifest.xml"
-        javaDirectories="src/release/java:src/release/kotlin"
-        resDirectories="src/release/res"
-        assetsDirectories="src/release/assets"/>
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
   </sourceProviders>
   <testSourceProviders>
   </testSourceProviders>
@@ -34,7 +30,8 @@
   <mainArtifact
       classOutputs="/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/javac/release/classes:/Users/chenwuyi/Developer/materialpomo/build/app/tmp/kotlin-classes/release:/Users/chenwuyi/Developer/materialpomo/build/app/kotlinToolingMetadata:/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.example.material_pomodoro"
-      generatedSourceFolders="/Users/chenwuyi/Developer/materialpomo/build/app/generated/ap_generated_sources/release/out:/Users/chenwuyi/Developer/materialpomo/build/app/generated/aidl_source_output_dir/release/out:/Users/chenwuyi/Developer/materialpomo/build/app/generated/source/buildConfig/release:/Users/chenwuyi/Developer/materialpomo/build/app/generated/renderscript_source_output_dir/release/out"
-      generatedResourceFolders="/Users/chenwuyi/Developer/materialpomo/build/app/generated/res/rs/release:/Users/chenwuyi/Developer/materialpomo/build/app/generated/res/resValues/release">
+      generatedSourceFolders="/Users/chenwuyi/Developer/materialpomo/build/app/generated/ap_generated_sources/release/out:/Users/chenwuyi/Developer/materialpomo/build/app/generated/data_binding_base_class_source_out/release/out"
+      generatedResourceFolders="/Users/chenwuyi/Developer/materialpomo/build/app/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/chenwuyi/.gradle/caches/transforms-3/22fee8e65a7ec999eeb4e464ff09a1f4/transformed/D8BackportedDesugaredMethods.txt">
   </mainArtifact>
 </variant>

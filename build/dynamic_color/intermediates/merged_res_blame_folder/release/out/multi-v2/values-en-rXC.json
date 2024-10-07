@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.material.plugins.dynamic_color-merged_res-38:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-35:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -40,10 +40,10 @@
             ]
         },
         {
-            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-36:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "io.material.plugins.dynamic_color-merged_res-37:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -60,7 +60,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

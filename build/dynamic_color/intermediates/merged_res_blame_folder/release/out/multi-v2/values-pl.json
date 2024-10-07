@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.material.plugins.dynamic_color-merged_res-38:/values-pl/values-pl.xml",
+            "outputFile": "io.material.plugins.dynamic_color-merged_res-37:/values-pl/values-pl.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-pl/values-pl.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-pl/values-pl.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-pl/values-pl.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -59,10 +59,10 @@
             ]
         },
         {
-            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-36:/values-pl/values-pl.xml",
+            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-35:/values-pl/values-pl.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-pl/values-pl.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -79,7 +79,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-pl/values-pl.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -98,7 +98,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-pl/values-pl.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

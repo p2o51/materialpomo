@@ -2,10 +2,8 @@
 manifest
 ADDED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml:1:1-3:12
 INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml:1:1-3:12
-INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml:1:1-3:12
 	package
 		ADDED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml:2:3-46
-		INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
 		INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml:1:11-69
@@ -13,13 +11,7 @@ uses-sdk
 INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
 INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-		ADDED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
-		ADDED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml
 		INJECTED from /Users/chenwuyi/.pub-cache/hosted/pub.dev/dynamic_color-1.7.0/android/src/main/AndroidManifest.xml

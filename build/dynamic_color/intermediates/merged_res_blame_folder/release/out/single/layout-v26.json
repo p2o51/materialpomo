@@ -1,10 +1,10 @@
 [
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-v26/abc_screen_toolbar.xml",
-        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-4:/layout-v26/abc_screen_toolbar.xml"
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/layout-v26/mtrl_calendar_month.xml",
+        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/layout-v26/mtrl_calendar_month.xml"
     },
     {
-        "merged": "io.material.plugins.dynamic_color-merged_res-38:/layout-v26/mtrl_calendar_month.xml",
-        "source": "io.material.plugins.dynamic_color-material-1.7.0-2:/layout-v26/mtrl_calendar_month.xml"
+        "merged": "io.material.plugins.dynamic_color-merged_res-37:/layout-v26/abc_screen_toolbar.xml",
+        "source": "io.material.plugins.dynamic_color-appcompat-1.5.0-19:/layout-v26/abc_screen_toolbar.xml"
     }
 ]

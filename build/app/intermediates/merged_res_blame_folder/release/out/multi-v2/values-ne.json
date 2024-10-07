@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.material_pomodoro.app-mergeReleaseResources-40:/values-ne/values-ne.xml",
+            "outputFile": "com.example.material_pomodoro.app-mergeReleaseResources-39:/values-ne/values-ne.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-ne/values-ne.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,261,363,469,567,667,775",
+                        "endColumns": "102,102,101,105,97,99,107,100",
+                        "endOffsets": "153,256,358,464,562,662,770,871"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,98",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3154,3257,3360,3462,3568,3666,3766,8482",
+                        "endColumns": "102,102,101,105,97,99,107,100",
+                        "endOffsets": "3252,3355,3457,3563,3661,3761,3869,8578"
+                    }
+                },
+                {
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-ne/values-ne.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -37,23 +54,6 @@
                         "endLines": "5,33,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96",
                         "endColumns": "12,81,101,109,86,65,95,65,60,104,71,57,73,61,53,112,59,60,58,77,123,80,84,135,80,82,82,61,53,65,76,78,87,68,75,80,67,90,77,92,96,73,78,97,59,65,87,87,61,67,62,104,117,94,119,65,57,83",
                         "endOffsets": "307,3149,3971,4081,4168,4234,4330,4396,4457,4562,4634,4692,4766,4828,4882,4995,5055,5116,5175,5253,5377,5458,5543,5679,5760,5843,5926,5988,6042,6108,6185,6264,6352,6421,6497,6578,6646,6737,6815,6908,7005,7079,7158,7256,7316,7382,7470,7558,7620,7688,7751,7856,7974,8069,8189,8255,8313,8397"
-                    }
-                },
-                {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res/values-ne/values-ne.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,261,363,469,567,667,775",
-                        "endColumns": "102,102,101,105,97,99,107,100",
-                        "endOffsets": "153,256,358,464,562,662,770,871"
-                    },
-                    "to": {
-                        "startLines": "34,35,36,37,38,39,40,98",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3154,3257,3360,3462,3568,3666,3766,8482",
-                        "endColumns": "102,102,101,105,97,99,107,100",
-                        "endOffsets": "3252,3355,3457,3563,3661,3761,3869,8578"
                     }
                 }
             ]

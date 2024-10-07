@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-36:/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-35:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "io.material.plugins.dynamic_color-merged_res-38:/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "io.material.plugins.dynamic_color-merged_res-37:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/194b8adb3fc77f0cefd68c5274063b74/transformed/appcompat-1.5.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/914433dab29203ab0b685751f0e6b56d/transformed/appcompat-1.5.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

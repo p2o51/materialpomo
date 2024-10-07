@@ -6,9 +6,7 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="34" />
-9-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml
 10    <!--
 11         Required to query activities that can process text, see:
 12         https://developer.android.com/training/package-visibility and
@@ -17,64 +15,64 @@
 15         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 16    -->
 17    <queries>
-17-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:39:5-44:15
+17-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:40:5-45:15
 18        <intent>
-18-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:40:9-43:18
+18-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:9-44:18
 19            <action android:name="android.intent.action.PROCESS_TEXT" />
-19-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:13-72
-19-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:41:21-70
+19-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:13-72
+19-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:21-70
 20
 21            <data android:mimeType="text/plain" />
-21-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:13-50
-21-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:42:19-48
+21-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:43:13-50
+21-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:43:19-48
 22        </intent>
 23    </queries>
 24
 25    <uses-permission android:name="android.permission.VIBRATE" />
-25-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-66
-25-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-63
+25-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-66
+25-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-63
 26    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-26-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-77
-26-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-74
+26-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-77
+26-->[:flutter_local_notifications] /Users/chenwuyi/Developer/materialpomo/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-74
 27
 28    <permission
-28-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+28-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 29        android:name="com.example.material_pomodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-29-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+29-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 30        android:protectionLevel="signature" />
-30-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+30-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 31
-32    <uses-permission android:name="com.example.material_pomodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-32-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
-32-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
-33
-34    <application
-35        android:name="android.app.Application"
-35-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:4:9-42
-36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-36-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+32    <uses-permission android:name="com.example.material_pomodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Removed package attribute -->
+32-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+33    <application
+34        android:name="android.app.Application"
+34-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:5:9-42
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.13.1] /Users/chenwuyi/.gradle/caches/transforms-3/587903d5c1980c924965e6814204d8f7/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+36        android:extractNativeLibs="true"
 37        android:icon="@mipmap/ic_launcher"
-37-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:5:9-43
+37-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:6:9-43
 38        android:label="material_pomodoro" >
-38-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:3:9-42
+38-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:4:9-42
 39        <activity
-39-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:6:9-27:20
+39-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:7:9-28:20
 40            android:name="com.example.material_pomodoro.MainActivity"
-40-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:7:13-41
+40-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:8:13-41
 41            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-41-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:12:13-163
+41-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:13:13-163
 42            android:exported="true"
-42-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:8:13-36
+42-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:9:13-36
 43            android:hardwareAccelerated="true"
-43-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:13:13-47
+43-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:14:13-47
 44            android:launchMode="singleTop"
-44-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:9:13-43
+44-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:10:13-43
 45            android:taskAffinity=""
-45-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:10:13-36
+45-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:11:13-36
 46            android:theme="@style/LaunchTheme"
-46-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:11:13-47
+46-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:12:13-47
 47            android:windowSoftInputMode="adjustResize" >
-47-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:14:13-55
+47-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:15:13-55
 48
 49            <!--
 50                 Specifies an Android theme to apply to this Activity as soon as
@@ -83,21 +81,21 @@
 53                 to determine the Window background behind the Flutter UI.
 54            -->
 55            <meta-data
-55-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:19:13-22:17
+55-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:20:13-23:17
 56                android:name="io.flutter.embedding.android.NormalTheme"
-56-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:20:15-70
+56-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:21:15-70
 57                android:resource="@style/NormalTheme" />
-57-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:21:15-52
+57-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:22:15-52
 58
 59            <intent-filter>
-59-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:23:13-26:29
+59-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:24:13-27:29
 60                <action android:name="android.intent.action.MAIN" />
-60-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:24:17-68
-60-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:24:25-66
+60-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:25:17-68
+60-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:25:25-66
 61
 62                <category android:name="android.intent.category.LAUNCHER" />
-62-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:25:17-76
-62-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:25:27-74
+62-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:26:17-76
+62-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:26:27-74
 63            </intent-filter>
 64        </activity>
 65        <!--
@@ -105,88 +103,88 @@
 67             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 68        -->
 69        <meta-data
-69-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:30:9-32:33
+69-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:31:9-33:33
 70            android:name="flutterEmbedding"
-70-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:31:13-44
+70-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:32:13-44
 71            android:value="2" />
-71-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:32:13-30
+71-->/Users/chenwuyi/Developer/materialpomo/android/app/src/main/AndroidManifest.xml:33:13-30
 72
 73        <uses-library
-73-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+73-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/273b339695b47b7c86833ae6c8fcd83a/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 74            android:name="androidx.window.extensions"
-74-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+74-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/273b339695b47b7c86833ae6c8fcd83a/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
 75            android:required="false" />
-75-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+75-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/273b339695b47b7c86833ae6c8fcd83a/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
 76        <uses-library
-76-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+76-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/273b339695b47b7c86833ae6c8fcd83a/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
 77            android:name="androidx.window.sidecar"
-77-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+77-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/273b339695b47b7c86833ae6c8fcd83a/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
 78            android:required="false" />
-78-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+78-->[androidx.window:window:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/273b339695b47b7c86833ae6c8fcd83a/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
 79
 80        <provider
-80-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+80-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 81            android:name="androidx.startup.InitializationProvider"
-81-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
 82            android:authorities="com.example.material_pomodoro.androidx-startup"
-82-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+82-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
 83            android:exported="false" >
-83-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+83-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
 84            <meta-data
-84-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+84-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-85-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+85-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
 86                android:value="androidx.startup" />
-86-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/3195b35f0cc2f358e547df28afec7c53/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+86-->[androidx.emoji2:emoji2:1.2.0] /Users/chenwuyi/.gradle/caches/transforms-3/eadc6d578787e418bbd07349c900cd8e/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
 87            <meta-data
-87-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+87-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/e0205781341330631d51c9ec9609ed94/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
 88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-88-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+88-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/e0205781341330631d51c9ec9609ed94/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
 89                android:value="androidx.startup" />
-89-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+89-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/chenwuyi/.gradle/caches/transforms-3/e0205781341330631d51c9ec9609ed94/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
 90            <meta-data
-90-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
 91                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-91-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
 92                android:value="androidx.startup" />
-92-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
 93        </provider>
 94
 95        <receiver
-95-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
 96            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-96-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 97            android:directBootAware="false"
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
 98            android:enabled="true"
-98-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
 99            android:exported="true"
-99-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
 100            android:permission="android.permission.DUMP" >
-100-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
 101            <intent-filter>
-101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 102                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-102-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
-102-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 103            </intent-filter>
 104            <intent-filter>
-104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 105                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-105-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
-105-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 106            </intent-filter>
 107            <intent-filter>
-107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 108                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-108-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
-108-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 109            </intent-filter>
 110            <intent-filter>
-110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 111                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-111-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
-111-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/chenwuyi/.gradle/caches/transforms-3/f0115cfd45f134b13d20752b7d24f3a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
 112            </intent-filter>
 113        </receiver>
 114    </application>

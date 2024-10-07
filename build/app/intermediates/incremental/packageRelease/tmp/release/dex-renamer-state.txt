@@ -1,4 +1,4 @@
-#Mon Oct 07 04:57:47 JST 2024
+#Tue Oct 08 02:10:15 JST 2024
 base.0=/Users/chenwuyi/Developer/materialpomo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
 renamed.0=classes.dex
+path.0=classes.dex

@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.material.plugins.dynamic_color" >
 
-    <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="16" />
+    <uses-sdk android:minSdkVersion="16" />
 
 </manifest>

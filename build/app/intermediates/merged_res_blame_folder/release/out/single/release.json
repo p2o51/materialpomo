@@ -1,7 +1,7 @@
 [
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_dark_default_color_secondary_text.xml.flat",
@@ -21,39 +21,39 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_tooltip_frame_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/tooltip_frame_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/tooltip_frame_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_ic_call_decline.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/ic_call_decline.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldpi-v4_ic_call_answer_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-ldpi-v4/ic_call_answer_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-ldpi-v4/ic_call_answer_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_notification_icon_background.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable/notification_icon_background.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable/notification_icon_background.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_ic_mtrl_chip_checked_black.xml.flat",
@@ -61,7 +61,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_dark_highlighted_text.xml.flat",
@@ -69,15 +69,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_go_search_api_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_go_search_api_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
@@ -85,7 +85,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_card_state_list_anim.xml.flat",
@@ -93,7 +93,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_ic_call_answer_video.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/ic_call_answer_video.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_popupmenu_background_overlay.xml.flat",
@@ -101,11 +101,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_ic_call_decline_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/ic_call_decline_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_btn_radio_material_anim.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_btn_radio_material_anim.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_btn_radio_material_anim.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb.xml.flat",
@@ -113,7 +113,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_linear_indeterminate_line2_head_interpolator.xml.flat",
@@ -121,19 +121,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_ic_call_answer_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/ic_call_answer_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/ic_call_answer_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_fab_efab_background_color_selector.xml.flat",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_text_btn_text_color_selector.xml.flat",
@@ -149,11 +149,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_error.xml.flat",
@@ -165,7 +165,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxhdpi-v4/ic_call_answer_video.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxhdpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_alert_select_dialog_multichoice.xml.flat",
@@ -177,31 +177,31 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_ic_call_decline.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxhdpi-v4/ic_call_decline.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxhdpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_part_time.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout/notification_template_part_time.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout/notification_template_part_time.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_vector_test.xml.flat",
-        "source": "com.example.material_pomodoro.app-jetified-appcompat-resources-1.5.0-25:/drawable/abc_vector_test.xml"
+        "source": "com.example.material_pomodoro.app-jetified-appcompat-resources-1.5.0-15:/drawable/abc_vector_test.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_search_url_text.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_search_url_text.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_search_url_text.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_extended_fab_state_list_animator.xml.flat",
@@ -213,11 +213,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-v21_notification_action.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout-v21/notification_action.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout-v21/notification_action.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_navigation_bar_colored_item_tint.xml.flat",
@@ -233,7 +233,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator-v21_m3_sys_motion_easing_standard_decelerate.xml.flat",
@@ -241,7 +241,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_secondary_text_material_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_secondary_text_material_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_filled_background_color.xml.flat",
@@ -249,11 +249,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_ic_call_decline.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/ic_call_decline.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_timepicker_clock_text_color.xml.flat",
@@ -265,7 +265,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout-watch-v20/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_fab_efab_foreground_color_selector.xml.flat",
@@ -277,11 +277,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_dialog_title_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_dialog_title_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_ic_call_decline_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/ic_call_decline_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb_unchecked_pressed.xml.flat",
@@ -293,7 +293,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -309,31 +309,31 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_media_action.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_media_action.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_media_action.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_fragment_close_enter.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/animator/fragment_close_enter.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/animator/fragment_close_enter.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_ic_call_answer_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/ic_call_answer_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/ic_call_answer_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_ic_call_answer.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/ic_call_answer.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_spinner_textfield_background_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_popup_menu_item_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_m3_chip_state_list_anim.xml.flat",
@@ -341,11 +341,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_navigation_bar_ripple_color_selector.xml.flat",
@@ -353,7 +353,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_popupmenu_overlay_color.xml.flat",
@@ -361,7 +361,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_timepicker_display_background_color.xml.flat",
@@ -369,7 +369,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_cab_background_top_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_cab_background_top_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim-v21_mtrl_bottom_sheet_slide_in.xml.flat",
@@ -377,7 +377,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_abc_edit_text_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-v21/abc_edit_text_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_switch_thumb_tint.xml.flat",
@@ -385,27 +385,27 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_menu_share_mtrl_alpha.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_fragment_open_exit.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/animator/fragment_open_exit.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/animator/fragment_open_exit.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_tint_default.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_tint_default.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_select_dialog_item_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/select_dialog_item_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_actions.xml.flat",
@@ -413,7 +413,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_radio_off_mtrl.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_radio_off_mtrl.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_radio_off_mtrl.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_material_ic_keyboard_arrow_right_black_24dp.xml.flat",
@@ -421,7 +421,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_checkbox_button_icon_indeterminate_unchecked.xml.flat",
@@ -433,7 +433,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_clockface_textview.xml.flat",
@@ -449,15 +449,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_on_primary_text_btn_text_color_selector.xml.flat",
@@ -465,7 +465,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
@@ -473,11 +473,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_ic_call_answer_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/ic_call_answer_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/ic_call_answer_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_screen_toolbar.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_screen_toolbar.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_checkbox_button_tint.xml.flat",
@@ -485,11 +485,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_filled_stroke_color.xml.flat",
@@ -497,27 +497,27 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_tooltip_frame_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/tooltip_frame_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/tooltip_frame_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_tint_seek_thumb.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_tint_seek_thumb.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_fragment_fade_exit.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/animator/fragment_fade_exit.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/animator/fragment_fade_exit.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_ic_call_answer.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxhdpi-v4/ic_call_answer.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxhdpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_slider_inactive_track_color.xml.flat",
@@ -525,7 +525,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_on_background_emphasis_high_type.xml.flat",
@@ -541,11 +541,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator-v21_m3_sys_motion_easing_standard_accelerate.xml.flat",
@@ -553,11 +553,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_notification_tile_bg.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable/notification_tile_bg.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_slider_inactive_tick_marks_color.xml.flat",
@@ -565,11 +565,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_indicator_text_color.xml.flat",
@@ -577,23 +577,23 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_list_menu_item_radio.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_list_menu_item_radio.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_custom_dialog.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout/custom_dialog.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout/custom_dialog.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_popup_enter.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_popup_enter.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_popup_enter.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_indeterminate.xml.flat",
@@ -601,11 +601,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldpi-v4_ic_call_decline_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-ldpi-v4/ic_call_decline_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-ldpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_icon_button_icon_color_selector.xml.flat",
@@ -621,15 +621,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_btn_radio_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_btn_radio_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_text_select_handle_left_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_text_select_handle_left_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_text_select_handle_left_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_tabs_ripple_color.xml.flat",
@@ -641,7 +641,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_popup_menu_header_item_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_popup_menu_header_item_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_divider_color.xml.flat",
@@ -649,7 +649,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_ab_back_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_design_error.xml.flat",
@@ -657,7 +657,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_primary_text_material_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_primary_text_material_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_outlined_icon_tint.xml.flat",
@@ -665,19 +665,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_fragment_open_enter.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/animator/fragment_open_enter.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/animator/fragment_open_enter.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_checkbox_button_icon_indeterminate_checked.xml.flat",
@@ -705,7 +705,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_primary_text_disable_only_material_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_primary_text_disable_only_material_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_layout_snackbar_include.xml.flat",
@@ -721,7 +721,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-anydpi-v21_ic_call_answer_video_low.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_textinput_timepicker.xml.flat",
@@ -733,15 +733,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-anydpi-v21_ic_call_answer_video.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-anydpi-v21/ic_call_answer_video.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-anydpi-v21/ic_call_answer_video.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_checkbox_to_checked_box_outer_merged_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_mtrl_navigation_bar_item_background.xml.flat",
@@ -749,11 +749,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_ic_keyboard_black_24dp.xml.flat",
@@ -769,7 +769,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_color_highlight_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_color_highlight_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_navigation_bar_colored_ripple_color.xml.flat",
@@ -777,7 +777,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_timepicker_dialog.xml.flat",
@@ -797,15 +797,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_slider_halo_color.xml.flat",
@@ -829,7 +829,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout-v21/notification_action_tombstone.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_fab_show_motion_spec.xml.flat",
@@ -845,7 +845,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator-v21_mtrl_fast_out_slow_in.xml.flat",
@@ -857,11 +857,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_menu_copy_mtrl_am_alpha.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_checkbox_unchecked.xml.flat",
@@ -869,7 +869,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_action_bar_up_container.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_action_bar_up_container.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/mipmap-hdpi_ic_launcher.png.flat",
@@ -893,7 +893,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_primary_text_disable_only_material_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_primary_text_disable_only_material_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_calendar_item_disabled_text.xml.flat",
@@ -901,7 +901,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_background_cache_hint_selector_material_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_m3_popupmenu_background_overlay.xml.flat",
@@ -921,7 +921,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_cascading_menu_item_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_cascading_menu_item_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_tonal_button_ripple_color_selector.xml.flat",
@@ -929,19 +929,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_ic_call_decline.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxxhdpi-v4/ic_call_decline.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxxhdpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_text_select_handle_left_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_text_select_handle_left_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_text_select_handle_left_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_text_input_date.xml.flat",
@@ -949,7 +949,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_btn_borderless_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_btn_borderless_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_checkbox_checked.xml.flat",
@@ -957,31 +957,31 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_notification_bg.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable/notification_bg.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable/notification_bg.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_item_background_holo_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_item_background_holo_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_grow_fade_in_from_bottom.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_media_cancel_action.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_media_cancel_action.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_btn_bg_color_selector.xml.flat",
@@ -989,11 +989,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_checkbox_checked_mtrl.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_checkbox_checked_mtrl.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_checkbox_checked_mtrl.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_timepicker_secondary_text_button_text_color.xml.flat",
@@ -1005,7 +1005,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_switch_thumb_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_switch_thumb_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim-v21_design_bottom_sheet_slide_out.xml.flat",
@@ -1013,7 +1013,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_design_fab_hide_motion_spec.xml.flat",
@@ -1025,7 +1025,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_checkbox_button_icon_tint.xml.flat",
@@ -1041,15 +1041,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_shrink_fade_out_from_bottom.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ratingbar_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ratingbar_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
@@ -1073,11 +1073,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_ic_call_decline.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/ic_call_decline.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_clock_period_toggle.xml.flat",
@@ -1089,7 +1089,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_button_ripple_color_selector.xml.flat",
@@ -1101,7 +1101,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb_unchecked_checked.xml.flat",
@@ -1109,31 +1109,31 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_switch_thumb_material_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/switch_thumb_material_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_text_cursor_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_text_cursor_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout-v21/notification_template_custom_big.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_btn_colored_text_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_btn_colored_text_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_navigation_item_ripple_color.xml.flat",
@@ -1141,19 +1141,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_text_select_handle_right_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_text_select_handle_right_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_text_select_handle_right_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_ic_call_decline_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxhdpi-v4/ic_call_decline_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxhdpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-anydpi-v21_ic_call_decline.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-anydpi-v21/ic_call_decline.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-anydpi-v21/ic_call_decline.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-night-v8_material_timepicker_modebutton_tint.xml.flat",
@@ -1161,11 +1161,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_popup_exit.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_popup_exit.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_popup_exit.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_hint_foreground_material_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_hint_foreground_material_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_clockface_view.xml.flat",
@@ -1189,15 +1189,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_seekbar_tick_mark_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_seekbar_tick_mark_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_ime_base_split_test_activity.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout/ime_base_split_test_activity.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout/ime_base_split_test_activity.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_text_button_ripple_color_selector.xml.flat",
@@ -1205,11 +1205,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_big_media_narrow.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_elevated_chip_background_color.xml.flat",
@@ -1217,7 +1217,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_search_dropdown_item_icons_2line.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_slider_thumb_color.xml.flat",
@@ -1225,11 +1225,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_expanded_menu_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_expanded_menu_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_calendar_horizontal.xml.flat",
@@ -1237,11 +1237,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_cursor_color.xml.flat",
@@ -1249,7 +1249,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_text_input_date_range.xml.flat",
@@ -1265,11 +1265,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldpi-v4_ic_call_answer_video_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-ldpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_chip_stroke_color.xml.flat",
@@ -1277,7 +1277,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_material_ic_calendar_black_24dp.xml.flat",
@@ -1293,15 +1293,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_ic_call_answer_video_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/ic_call_answer_video_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_tint_seek_thumb.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_tint_seek_thumb.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_cancel.xml.flat",
@@ -1313,11 +1313,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_activity_chooser_view.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_activity_chooser_view.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_timepicker_button_background.xml.flat",
@@ -1325,7 +1325,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb_checked_unchecked.xml.flat",
@@ -1333,7 +1333,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_ic_call_answer_video.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/ic_call_answer_video.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_chip_surface_color.xml.flat",
@@ -1345,19 +1345,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_star_half_black_48dp.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_star_half_black_48dp.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_star_half_black_48dp.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_activity_chooser_view_list_item.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_switch_track_tint.xml.flat",
@@ -1365,15 +1365,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_ic_call_answer.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxxhdpi-v4/ic_call_answer.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxxhdpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_media.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_media.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_media.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_switch_track_tint.xml.flat",
@@ -1393,11 +1393,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_checkbox_button_icon_unchecked_indeterminate.xml.flat",
@@ -1405,35 +1405,35 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_search_api_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_search_api_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_action_bar_title_item.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_action_bar_title_item.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_background_cache_hint_selector_material_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_notification_oversize_large_icon_bg.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/notification_oversize_large_icon_bg.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/notification_oversize_large_icon_bg.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_select_dialog_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_select_dialog_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_hint_foreground_material_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_hint_foreground_material_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb_checked.xml.flat",
@@ -1441,7 +1441,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_chip_state_list_anim.xml.flat",
@@ -1457,11 +1457,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_ic_call_answer_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxhdpi-v4/ic_call_answer_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxhdpi-v4/ic_call_answer_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_mtrl_linear.xml.flat",
@@ -1469,19 +1469,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_checkbox_unchecked_mtrl.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_checkbox_unchecked_mtrl.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_checkbox_unchecked_mtrl.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_btn_default_mtrl_shape.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_btn_default_mtrl_shape.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldpi-v4_ic_call_decline.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-ldpi-v4/ic_call_decline.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-ldpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_arrow_drop_up.xml.flat",
@@ -1489,7 +1489,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldpi-v4_ic_call_answer_video.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-ldpi-v4/ic_call_answer_video.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-ldpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_dark_primary_text_disable_only.xml.flat",
@@ -1501,19 +1501,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_action_mode_bar.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_action_mode_bar.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
@@ -1521,15 +1521,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_voice_search_api_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_voice_search_api_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_tint_switch_track.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_tint_switch_track.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_tabs_ripple_color.xml.flat",
@@ -1537,7 +1537,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-land_material_clock_period_toggle_land.xml.flat",
@@ -1553,7 +1553,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_tooltip.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_tooltip.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_tooltip.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_m3_alert_dialog_title.xml.flat",
@@ -1561,19 +1561,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_ic_call_answer.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/ic_call_answer.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-anydpi-v21_ic_call_answer.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-anydpi-v21/ic_call_answer.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-anydpi-v21/ic_call_answer.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_navigation_item.xml.flat",
@@ -1593,7 +1593,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_fragment_close_exit.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/animator/fragment_close_exit.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/animator/fragment_close_exit.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_navigation_rail_item.xml.flat",
@@ -1601,11 +1601,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_fast_out_slow_in.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/fast_out_slow_in.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/fast_out_slow_in.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_timepicker_clock_text_color.xml.flat",
@@ -1613,11 +1613,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_button_background_color_selector.xml.flat",
@@ -1625,15 +1625,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_test_level_drawable.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/test_level_drawable.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/test_level_drawable.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_action_menu_item_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_action_menu_item_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v23_abc_control_background_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-v23/abc_control_background_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-v23/abc_control_background_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_time_chip.xml.flat",
@@ -1645,7 +1645,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_card_stroke_color.xml.flat",
@@ -1661,11 +1661,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_alert_dialog_button_bar_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_star_black_48dp.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_star_black_48dp.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_star_black_48dp.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_navigation_item_icon_tint.xml.flat",
@@ -1673,19 +1673,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_tab_indicator_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_tab_indicator_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_slide_in_top.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_slide_in_top.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout-v21/notification_template_icon_group.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_calendar_day_of_week.xml.flat",
@@ -1693,7 +1693,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_btn_check_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_btn_check_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_checkbox_button_unchecked_checked.xml.flat",
@@ -1705,11 +1705,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_tint_edittext.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_tint_edittext.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_tint_edittext.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_checkbox_button.xml.flat",
@@ -1717,7 +1717,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_navigation_item_text_color.xml.flat",
@@ -1733,7 +1733,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_layout_tab_text.xml.flat",
@@ -1745,7 +1745,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ratingbar_indicator_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ratingbar_indicator_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_button_foreground_color_selector.xml.flat",
@@ -1765,7 +1765,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_ic_call_answer_video_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_slider_thumb_color.xml.flat",
@@ -1785,11 +1785,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_tint_spinner.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_tint_spinner.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/mipmap-mdpi_ic_launcher.png.flat",
@@ -1801,15 +1801,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_notification_action_background.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-v21/notification_action_background.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/select_dialog_singlechoice_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_m3_extended_fab_hide_motion_spec.xml.flat",
@@ -1825,7 +1825,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_clear_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_clear_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_primary_text_disable_only.xml.flat",
@@ -1853,15 +1853,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_abc_list_divider_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-v21/abc_list_divider_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-v21/abc_list_divider_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_fab_icon_text_color_selector.xml.flat",
@@ -1877,15 +1877,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_tint_edittext.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_tint_edittext.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_m3_extended_fab_state_list_animator.xml.flat",
@@ -1893,11 +1893,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_media_custom.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_media_custom.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_tint_spinner.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_tint_spinner.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_tint_spinner.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_checkbox_button_icon_checked_indeterminate.xml.flat",
@@ -1909,11 +1909,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_timepicker_display_ripple_color.xml.flat",
@@ -1921,7 +1921,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_layout_tab_icon.xml.flat",
@@ -1933,7 +1933,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_clock_display.xml.flat",
@@ -1945,7 +1945,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_text_input_start_icon.xml.flat",
@@ -1957,7 +1957,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_radio_on_mtrl.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_radio_on_mtrl.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_radio_on_mtrl.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_alert_select_dialog_singlechoice.xml.flat",
@@ -1965,11 +1965,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-v26_mtrl_calendar_month.xml.flat",
@@ -1977,11 +1977,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_big_media_narrow_custom.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_m3_alert_dialog.xml.flat",
@@ -1989,7 +1989,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_default_color_primary_text.xml.flat",
@@ -1997,7 +1997,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_secondary_text_material_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_secondary_text_material_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_header_selection_text.xml.flat",
@@ -2017,7 +2017,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_button_outline_color_selector.xml.flat",
@@ -2025,7 +2025,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_menu_cut_mtrl_alpha.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_radiobutton_button_tint.xml.flat",
@@ -2033,15 +2033,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_fragment_fade_enter.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/animator/fragment_fade_enter.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/animator/fragment_fade_enter.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_tint_switch_track.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_tint_switch_track.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_tint_switch_track.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_abc_dialog_material_background.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-v21/abc_dialog_material_background.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-v21/abc_dialog_material_background.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_fab_hide_motion_spec.xml.flat",
@@ -2053,7 +2053,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_list_selector_holo_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_list_selector_holo_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_fullscreen.xml.flat",
@@ -2069,15 +2069,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-v26_abc_screen_toolbar.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout-v26/abc_screen_toolbar.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout-v26/abc_screen_toolbar.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_simple_item_ripple_color.xml.flat",
@@ -2085,7 +2085,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb_pressed_checked.xml.flat",
@@ -2093,7 +2093,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_tooltip_exit.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_tooltip_exit.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_tooltip_exit.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_bottom_navigation_item.xml.flat",
@@ -2105,39 +2105,39 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_text_select_handle_right_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_text_select_handle_right_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_text_select_handle_right_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_switch_thumb_material_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/switch_thumb_material_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_list_menu_item_icon.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_list_menu_item_icon.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_ic_call_answer_video_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_ic_call_answer_video.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_error.xml.flat",
@@ -2149,7 +2149,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_seekbar_thumb_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_seekbar_thumb_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_choice_chip_text_color.xml.flat",
@@ -2157,15 +2157,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_part_chronometer.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout/notification_template_part_chronometer.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_list_menu_item_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_list_menu_item_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_avd_show_password.xml.flat",
@@ -2173,11 +2173,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-anydpi-v21_ic_call_decline_low.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-anydpi-v21/ic_call_decline_low.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-anydpi-v21/ic_call_decline_low.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_primary_text_material_dark.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_primary_text_material_dark.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_header_title_text.xml.flat",
@@ -2189,7 +2189,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_big_media.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_big_media.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_big_media.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
@@ -2197,7 +2197,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_design_ic_visibility.xml.flat",
@@ -2205,11 +2205,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-night-v8_material_timepicker_button_stroke.xml.flat",
@@ -2217,7 +2217,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_on_surface_disabled.xml.flat",
@@ -2225,11 +2225,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_menu_selectall_mtrl_alpha.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_on_primary_emphasis_high_type.xml.flat",
@@ -2241,19 +2241,19 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_fade_in.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_fade_in.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_fade_in.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_alert_dialog_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_alert_dialog_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_select_dialog_multichoice_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/select_dialog_multichoice_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_mtrl_card_lowers_interpolator.xml.flat",
@@ -2261,11 +2261,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_fade_out.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_fade_out.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_fade_out.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_ic_call_decline_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/ic_call_decline_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_layout_snackbar_include.xml.flat",
@@ -2281,7 +2281,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_popupmenu_overlay_color.xml.flat",
@@ -2293,15 +2293,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_action_mode_close_item_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_action_mode_close_item_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-anydpi-v21_ic_call_answer_low.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-anydpi-v21/ic_call_answer_low.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-anydpi-v21/ic_call_answer_low.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_radio_to_off_mtrl_ring_outer_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -2333,7 +2333,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ratingbar_small_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ratingbar_small_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_tabs_icon_color_selector_colored.xml.flat",
@@ -2349,11 +2349,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_ic_call_answer.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/ic_call_answer.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-night-v8_material_timepicker_clockface.xml.flat",
@@ -2369,11 +2369,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-v21/abc_btn_colored_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/interpolator-v21_m3_sys_motion_easing_emphasized_decelerate.xml.flat",
@@ -2385,7 +2385,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_material_clock_display_divider.xml.flat",
@@ -2413,7 +2413,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_slider_active_track_color.xml.flat",
@@ -2425,7 +2425,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_m3_card_elevated_state_list_anim.xml.flat",
@@ -2437,15 +2437,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_material_ic_clear_black_24dp.xml.flat",
@@ -2453,15 +2453,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_ic_call_answer_video.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/ic_call_answer_video.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v23_abc_tint_btn_checkable.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v23/abc_tint_btn_checkable.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_text_button_background_color_selector.xml.flat",
@@ -2481,27 +2481,27 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_lines_media.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_lines_media.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_list_selector_holo_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_list_selector_holo_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-watch-v20_abc_dialog_material_background.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-watch-v20/abc_dialog_material_background.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-watch-v20/abc_dialog_material_background.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_track_decoration.xml.flat",
@@ -2509,11 +2509,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_ic_check_mark.xml.flat",
@@ -2521,23 +2521,23 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_notification_bg_low.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable/notification_bg_low.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable/notification_bg_low.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color-v21/abc_btn_colored_borderless_text_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color-v21/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_slide_in_bottom.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_slide_in_bottom.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_alert_dialog_title_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_alert_dialog_title_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_dialog_background.xml.flat",
@@ -2545,23 +2545,23 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_menu_paste_mtrl_am_alpha.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_item_background_holo_light.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_item_background_holo_light.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_ic_menu_overflow_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_ic_menu_overflow_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_calendar_months.xml.flat",
@@ -2569,7 +2569,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_notification_template_big_media_custom.xml.flat",
-        "source": "com.example.material_pomodoro.app-media-1.1.0-11:/layout/notification_template_big_media_custom.xml"
+        "source": "com.example.material_pomodoro.app-media-1.1.0-26:/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_tabs_default_indicator.xml.flat",
@@ -2589,7 +2589,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_slide_out_bottom.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_slide_out_bottom.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_filled_icon_tint.xml.flat",
@@ -2597,7 +2597,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_mtrl_switch_thumb_unchecked.xml.flat",
@@ -2605,7 +2605,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_hint_foreground.xml.flat",
@@ -2617,7 +2617,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_dark_default_color_primary_text.xml.flat",
@@ -2633,11 +2633,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_btn_colored_text_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_btn_colored_text_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_dialog.xml.flat",
@@ -2645,7 +2645,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_tint_btn_checkable.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_tint_btn_checkable.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_linear_indeterminate_line1_tail_interpolator.xml.flat",
@@ -2653,7 +2653,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout-ldrtl-v17_material_textinput_timepicker.xml.flat",
@@ -2665,15 +2665,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_seekbar_track_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_seekbar_track_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_seekbar_track_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_slide_out_top.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_slide_out_top.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_card_view_ripple.xml.flat",
@@ -2689,7 +2689,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v23_m3_selection_control_ripple.xml.flat",
@@ -2697,7 +2697,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_textfield_search_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_textfield_search_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color-v31_m3_dynamic_highlighted_text.xml.flat",
@@ -2705,11 +2705,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_btn_check_material_anim.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_btn_check_material_anim.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_btn_check_material_anim.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_abc_tint_default.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/color/abc_tint_default.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/color/abc_tint_default.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_calendar_vertical.xml.flat",
@@ -2729,11 +2729,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_ic_call_answer_video_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/ic_call_answer_video_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_navigation_bar_item_tint.xml.flat",
@@ -2745,31 +2745,31 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_list_menu_item_checkbox.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_screen_simple_overlay_action_mode.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_action_menu_layout.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_action_menu_layout.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-ldpi-v4_ic_call_answer.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-ldpi-v4/ic_call_answer.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-ldpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_timepicker_display_text_color.xml.flat",
@@ -2777,7 +2777,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_calendar_days_of_week.xml.flat",
@@ -2793,7 +2793,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_on_surface_emphasis_high_type.xml.flat",
@@ -2805,7 +2805,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-v21/abc_action_bar_item_background_material.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_m3_tabs_line_indicator.xml.flat",
@@ -2813,15 +2813,15 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_screen_content_include.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_screen_content_include.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v23_m3_tabs_background.xml.flat",
@@ -2837,7 +2837,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
-        "source": "com.example.material_pomodoro.app-fragment-1.7.1-22:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+        "source": "com.example.material_pomodoro.app-fragment-1.7.1-9:/anim-v21/fragment_fast_out_extra_slow_in.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_mtrl_btn_text_btn_ripple_color.xml.flat",
@@ -2845,7 +2845,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_screen_simple.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_screen_simple.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_screen_simple.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_dark_default_color_primary_text.xml.flat",
@@ -2857,7 +2857,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-v23_m3_tabs_transparent_background.xml.flat",
@@ -2865,7 +2865,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_navigation_item_background_color.xml.flat",
@@ -2873,7 +2873,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable_abc_cab_background_internal_bg.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable/abc_cab_background_internal_bg.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable/abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_slider_active_track_color.xml.flat",
@@ -2889,11 +2889,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_abc_search_view.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/abc_search_view.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/abc_search_view.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_timepicker_button_text_color.xml.flat",
@@ -2901,27 +2901,27 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/layout/support_simple_spinner_dropdown_item.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/anim_abc_tooltip_enter.xml.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/anim/abc_tooltip_enter.xml"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/anim/abc_tooltip_enter.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_ime_secondary_split_test_activity.xml.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/layout/ime_secondary_split_test_activity.xml"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/layout/ime_secondary_split_test_activity.xml"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_design_bottom_sheet_dialog.xml.flat",
@@ -2937,11 +2937,11 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "com.example.material_pomodoro.app-core-1.13.1-15:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.example.material_pomodoro.app-core-1.13.1-11:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_m3_calendar_item_stroke_color.xml.flat",
@@ -2949,7 +2949,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/animator_mtrl_btn_state_list_anim.xml.flat",
@@ -2969,7 +2969,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/layout_mtrl_picker_header_fullscreen.xml.flat",
@@ -2977,7 +2977,7 @@
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-4:/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "source": "com.example.material_pomodoro.app-appcompat-1.5.0-20:/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "com.example.material_pomodoro.app-merged_res-42:/color_material_on_primary_emphasis_medium.xml.flat",

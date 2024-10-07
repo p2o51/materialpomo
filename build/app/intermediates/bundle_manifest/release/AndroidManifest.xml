@@ -29,11 +29,11 @@
         android:name="com.example.material_pomodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.material_pomodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-
+    <uses-permission android:name="com.example.material_pomodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Removed package attribute -->
     <application
         android:name="android.app.Application"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:extractNativeLibs="true"
         android:icon="@mipmap/ic_launcher"
         android:label="material_pomodoro" >
         <activity

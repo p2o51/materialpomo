@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-36:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "io.material.plugins.dynamic_color-merged_res-37:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "io.material.plugins.dynamic_color-merged_res-38:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-35:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/1040eaa1db74f18a8fc2398e73fa4b2b/transformed/material-1.7.0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+                    "source": "/Users/chenwuyi/.gradle/caches/transforms-3/27603288984317d22df21801944ee21d/transformed/material-1.7.0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

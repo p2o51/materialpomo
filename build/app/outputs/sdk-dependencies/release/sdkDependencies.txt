@@ -5,10 +5,10 @@ library {
   maven_library {
     groupId: "org.jetbrains.kotlin"
     artifactId: "kotlin-stdlib-jdk7"
-    version: "1.8.20"
+    version: "1.9.0"
   }
   digests {
-    sha256: "\257\036\304\f;\225\032\375\314\f*\001s\307\270\027c\305(\034-[\257\277\n\205D\242L]\314\f"
+    sha256: "\267\227\232z\254\224\005_\r\237\037\323\264|\345\377\341\313`2\250B\272\237\276q\206\360\205(\221x"
   }
   repo_index {
     value: 1
@@ -18,10 +18,10 @@ library {
   maven_library {
     groupId: "org.jetbrains.kotlin"
     artifactId: "kotlin-stdlib"
-    version: "1.8.22"
+    version: "1.9.0"
   }
   digests {
-    sha256: "\003\245\303\226\\\303pQ\022\216d\344gH\343\224\266\275L\227\372\201\306\336o\307+\375D\343B\033"
+    sha256: "5\256\377\276-\265\252D`r\316\345\017\316\344\213\177\251\342\374Q\3127\300\314}}\v\303\235\225."
   }
   repo_index {
     value: 1
@@ -31,10 +31,10 @@ library {
   maven_library {
     groupId: "org.jetbrains.kotlin"
     artifactId: "kotlin-stdlib-common"
-    version: "1.8.22"
+    version: "1.9.0"
   }
   digests {
-    sha256: "\320\3026^$7\357p\363E\206\325\017\005WC\367\227\026\274\376e\344\274r9\315\322f\236\367\305"
+    sha256: "(2t K\327\300 x\236\304o\217\216r\257BD\327\365P\2639*W\345\312\000j\327\252,"
   }
   repo_index {
     value: 1
@@ -281,10 +281,10 @@ library {
   maven_library {
     groupId: "org.jetbrains.kotlin"
     artifactId: "kotlin-stdlib-jdk8"
-    version: "1.8.20"
+    version: "1.9.0"
   }
   digests {
-    sha256: "\343\230\266ywb\'\030\277\030\377\231\2679\307\331\332\006\0173\373E\212.% 2!\301j\360\020"
+    sha256: "\245\237\242O\337\037\373YK\256\315\277\017\321\000\020\371w\316\241\0026\324\207\3764d\227zsw\372"
   }
   repo_index {
     value: 1
@@ -858,6 +858,27 @@ library {
 }
 library {
   maven_library {
+    groupId: "androidx.databinding"
+    artifactId: "viewbinding"
+    version: "8.1.0"
+  }
+  digests {
+    sha256: "\306\306^)\301ko\002.I\b\227\355,\322\024z \001\f\036\003\250\210\273\255\327\274\276\316{\320"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.firebase"
+    artifactId: "firebase-bom"
+    version: "30.1.0"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
     groupId: "io.flutter"
     artifactId: "armeabi_v7a_release"
     version: "1.0.0-36335019a8eab588c3c2ea783c618d90505be233"
@@ -897,7 +918,7 @@ library {
 }
 library {
   digests {
-    sha256: "\347\312*=:\360\270\3464X\205\367\267\021U\302F\\\230\310\033\314\253f\376\340s\037G\202\232\317"
+    sha256: "~\234\202\344\252\350h\250T.\217\240\265#o\243\276`j\325f\230\366\177=))\332\177\356n\251"
   }
 }
 library_dependencies {
@@ -1418,21 +1439,27 @@ library_dependencies {
   library_dep_index: 1
   library_dep_index: 68
 }
+library_dependencies {
+  library_index: 71
+  library_dep_index: 5
+}
 module_dependencies {
   module_name: "base"
-  dependency_index: 23
   dependency_index: 71
+  dependency_index: 0
   dependency_index: 72
   dependency_index: 73
-  dependency_index: 0
+  dependency_index: 74
+  dependency_index: 75
   dependency_index: 4
   dependency_index: 61
   dependency_index: 10
   dependency_index: 65
   dependency_index: 66
+  dependency_index: 23
   dependency_index: 67
   dependency_index: 69
-  dependency_index: 74
+  dependency_index: 76
 }
 repositories {
   maven_repo {

@@ -6,6 +6,8 @@ import 'dart:math' as math;
 import 'package:flutter/scheduler.dart';
 import 'package:provider/provider.dart';
 import 'focus_todo_provider.dart';
+import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class FocusPage extends StatefulWidget {
   const FocusPage({super.key});
@@ -24,8 +26,8 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
   late fln.FlutterLocalNotificationsPlugin _localNotificationsPlugin;
 
   // 添加专注和休息时间的选项
-  final List<int> _focusOptions = [25, 35, 45];
-  final List<int> _restOptions = [5, 15];
+  List<int> _focusOptions = [25, 35, 45];
+  List<int> _restOptions = [5, 15];
 
   late AnimationController _animationController;
   late Animation<double> _animation;
@@ -37,9 +39,16 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
 
   bool _isResting = false; // New variable to track rest/work state
 
+  int _loopCount = 0; // Track the current loop count
+
+  // Add these variables to store the preset durations
+  List<int> _presetFocusOptions = [25, 35, 45];
+  List<int> _presetRestOptions = [5, 15];
+
   @override
   void initState() {
     super.initState();
+    _loadSavedSettings();
     _localNotificationsPlugin = fln.FlutterLocalNotificationsPlugin();
     const android = fln.AndroidInitializationSettings('@mipmap/ic_launcher');
     const iOS = fln.DarwinInitializationSettings();
@@ -80,7 +89,26 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
     });
   }
 
+  Future<void> _loadSavedSettings() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _presetFocusOptions = prefs
+              .getStringList('focusOptions')
+              ?.map((e) => int.parse(e))
+              .toList() ??
+          [25, 35, 45];
+      _presetRestOptions = prefs
+              .getStringList('restOptions')
+              ?.map((e) => int.parse(e))
+              .toList() ??
+          [5, 15];
+      _focusOptions = _presetFocusOptions;
+      _restOptions = _presetRestOptions;
+    });
+  }
+
   void _startPauseTimer() {
+    HapticFeedback.mediumImpact(); // Add haptic feedback
     if (_isRunning) {
       _timer?.cancel();
       _ticker.stop();
@@ -131,26 +159,44 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
         } else {
           _stopTimers();
           _showNotification();
+
+          if (_loopCount < 4) {
+            // Start a new focus session
+            _loopCount++;
+            HapticFeedback.mediumImpact(); // Add haptic feedback
+            _startPauseTimer();
+          } else {
+            // End the loop after four sessions
+            HapticFeedback.heavyImpact(); // Add haptic feedback
+            _showEncouragementPopup();
+            _loopCount = 0; // Reset the loop count
+          }
         }
       });
     });
   }
 
   void _stopTimers() {
+    HapticFeedback.heavyImpact(); // Add haptic feedback
     _timer?.cancel();
     _ticker.stop();
     _waveAnimationController.stop();
-    _fadeAnimationController.reverse(); // Fade out effect
+    _fadeAnimationController.reverse();
     setState(() {
       _isRunning = false;
       _isResting = false;
-      _remainingTime = _workDuration * 60; // Reset to work duration
+      _remainingTime = _workDuration * 60;
       _animationController.reverse();
       _moveAnimationController.reverse();
+      if (_loopCount == 4) {
+        _showEncouragementPopup(); // Show encouragement UI after completing 4 focus cycles
+      }
+      _loopCount = 0; // Reset loop count on stop
     });
   }
 
   void _resetTimer() {
+    HapticFeedback.mediumImpact(); // Add haptic feedback
     _stopTimers();
     _fadeAnimationController.reverse(); // 淡出效果
     setState(() {
@@ -194,6 +240,149 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
     );
   }
 
+  Widget _buildWorkCounter() {
+    return AnimatedBuilder(
+      animation: _moveAnimation,
+      builder: (context, child) {
+        return Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: List.generate(4, (index) {
+            return Container(
+              margin: const EdgeInsets.symmetric(horizontal: 4.0),
+              width: 20,
+              height: 20,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: index < _loopCount
+                    ? ColorTween(
+                        begin: Theme.of(context).colorScheme.onPrimary,
+                        end: Theme.of(context).colorScheme.primary,
+                      ).evaluate(_moveAnimation)
+                    : Colors.transparent,
+                border: Border.all(
+                  color: ColorTween(
+                    begin: Theme.of(context).colorScheme.onPrimary,
+                    end: Theme.of(context).colorScheme.primary,
+                  ).evaluate(_moveAnimation)!,
+                  width: 2,
+                ),
+              ),
+            );
+          }),
+        );
+      },
+    );
+  }
+
+  void _showEncouragementPopup() {
+    showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: const Text("专注完成！"),
+          content: Text("专注了 ${_workDuration * _loopCount} 分钟"),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _resetTimer();
+              },
+              child: const Text("结束专注"),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _showSettingsDialog() {
+    List<int> tempFocusOptions = List.from(_presetFocusOptions);
+    List<int> tempRestOptions = List.from(_presetRestOptions);
+
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('设置预设时长'),
+          content: SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text('设置工作时长（分钟）',
+                    style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 16), // 增加上方间距
+                Row(
+                  children: _buildDurationInputs(tempFocusOptions, 3),
+                ),
+                const SizedBox(height: 24), // 增加下方间距
+                const Divider(),
+                const SizedBox(height: 24), // 增加上方间距
+                Text('设置休息时长（分钟）',
+                    style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 16), // 增加上方间距
+                Row(
+                  children: _buildDurationInputs(tempRestOptions, 2),
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            TextButton(
+              child: const Text('取消'),
+              onPressed: () => Navigator.of(context).pop(),
+            ),
+            TextButton(
+              child: const Text('保存'),
+              onPressed: () async {
+                setState(() {
+                  _presetFocusOptions = tempFocusOptions;
+                  _presetRestOptions = tempRestOptions;
+                  _focusOptions = _presetFocusOptions;
+                  _restOptions = _presetRestOptions;
+                });
+                // 保存到持久存储
+                final prefs = await SharedPreferences.getInstance();
+                await prefs.setStringList('focusOptions',
+                    _presetFocusOptions.map((e) => e.toString()).toList());
+                await prefs.setStringList('restOptions',
+                    _presetRestOptions.map((e) => e.toString()).toList());
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  List<Widget> _buildDurationInputs(List<int> options, int count) {
+    return List.generate(count, (index) {
+      return Expanded(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 4.0),
+          child: TextFormField(
+            initialValue: options[index].toString(),
+            keyboardType: TextInputType.number,
+            decoration: InputDecoration(
+              border: const OutlineInputBorder(),
+              labelText: '选项 ${index + 1}',
+              // 删除了 suffixText: '分钟'
+              contentPadding:
+                  const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
+            ),
+            inputFormatters: [FilteringTextInputFormatter.digitsOnly],
+            onChanged: (value) {
+              if (value.isNotEmpty) {
+                options[index] = int.parse(value);
+              }
+            },
+          ),
+        ),
+      );
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -206,27 +395,39 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                   : (_isRunning || _remainingTime < _workDuration * 60
                       ? "自由专注中"
                       : "专注"),
-              style: TextStyle(fontSize: 18),
+              style:
+                  Theme.of(context).textTheme.titleLarge, // Updated this line
             );
           },
         ),
-        titleSpacing: 16, // Add some padding to the left of the title
+        titleSpacing: 16,
         actions: [
-          // Add the stop button
+          // Stop button
           IconButton.filled(
             onPressed: (_isRunning || _remainingTime < _workDuration * 60)
-                ? _stopTimers
+                ? () {
+                    HapticFeedback.heavyImpact();
+                    _stopTimers();
+                  }
                 : null,
-            icon:
-                const Icon(Icons.stop_outlined), // Using the outlined stop icon
+            icon: const Icon(Icons.stop_outlined),
             style: IconButton.styleFrom(
               backgroundColor:
                   (_isRunning || _remainingTime < _workDuration * 60)
                       ? Theme.of(context).colorScheme.primaryContainer
-                      : Theme.of(context).colorScheme.surfaceVariant,
+                      : Theme.of(context).colorScheme.surfaceContainerHighest,
             ),
           ),
-          SizedBox(width: 16), // Add some padding to the right
+          const SizedBox(width: 8), // Add some spacing between buttons
+          // New settings button
+          IconButton.outlined(
+            onPressed: _showSettingsDialog,
+            icon: const Icon(Icons.settings_outlined),
+            style: IconButton.styleFrom(
+              side: BorderSide(color: Theme.of(context).colorScheme.outline),
+            ),
+          ),
+          const SizedBox(width: 16), // Add some padding to the right
         ],
         elevation: 0,
       ),
@@ -265,9 +466,9 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                                               ? _restDuration * 60
                                               : _workDuration * 60))
                                   : 0,
-                              fadeAnimation: _fadeAnimation, // 添加淡入淡出动画
+                              fadeAnimation: _fadeAnimation, // 添加淡入淡动画
                             ),
-                            child: SizedBox(
+                            child: const SizedBox(
                               width: 200,
                               height: 200,
                             ),
@@ -275,12 +476,12 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                         },
                       ),
                     ),
-                    // Timer text
+                    // Timer text, status, and work counter
                     AnimatedBuilder(
                       animation: _moveAnimation,
                       builder: (context, child) {
                         return Transform.translate(
-                          offset: Offset(0, _moveAnimation.value * 220), // 位移距
+                          offset: Offset(0, _moveAnimation.value * 220),
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
                             children: [
@@ -302,6 +503,8 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                                       ).evaluate(_moveAnimation),
                                     ),
                               ),
+                              const SizedBox(height: 8),
+                              _buildWorkCounter(), // Work counter is now always visible
                               const SizedBox(height: 8),
                               Text(
                                 _isRunning ? "专注中" : "准备开始",
@@ -368,7 +571,7 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
                     ),
                   ),
                   SizedBox(
-                    height: 80, // 为按钮预留足够的空��
+                    height: 80, // 为按钮预留足够的空
                     child: Center(
                       child: _buildAnimatedButton(),
                     ),
@@ -419,7 +622,10 @@ class FocusPageState extends State<FocusPage> with TickerProviderStateMixin {
             );
           }).toList(),
           selected: {selectedValue},
-          onSelectionChanged: onSelectionChanged,
+          onSelectionChanged: (Set<int> newSelection) {
+            HapticFeedback.selectionClick(); // Add haptic feedback
+            onSelectionChanged(newSelection);
+          },
         ),
       ],
     );

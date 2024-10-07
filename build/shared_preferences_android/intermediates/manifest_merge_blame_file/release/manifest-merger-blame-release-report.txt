@@ -2,10 +2,6 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="io.flutter.plugins.sharedpreferences" >
 4
-5    <uses-sdk
-6        android:minSdkVersion="19"
-6-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.3/android/src/main/AndroidManifest.xml
-7        android:targetSdkVersion="19" />
-7-->/Users/chenwuyi/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.3/android/src/main/AndroidManifest.xml
-8
-9</manifest>
+5    <uses-sdk android:minSdkVersion="19" />
+6
+7</manifest>
